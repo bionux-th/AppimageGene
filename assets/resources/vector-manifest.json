@@ -1,0 +1,885 @@
+{
+  "authorization": "Maintainer explicitly confirmed public redistribution permission on 2026-10-31; no license document supplied to agent. Not covered by project MIT license.",
+  "files": [
+    {
+      "path": "GC Cloning Vectors/pGC Blue (linearized).dna",
+      "bytes": 21220,
+      "sha256": "03bcf97a20e0a78bb157be824e45ca5e1a6801b00be7a7bb0daa0340052ef8ce"
+    },
+    {
+      "path": "GC Cloning Vectors/pSMART GC HK (linearized).dna",
+      "bytes": 16405,
+      "sha256": "83db901bb4f7c1128e009e070b296ed1050d1bec9e5d17fa9833cc2d3628117f"
+    },
+    {
+      "path": "GC Cloning Vectors/pSMART GC LK (linearized).dna",
+      "bytes": 22724,
+      "sha256": "0b6b597d6fe2a366dad90b2905346aa9848bc3c9f3e9836c86f2c0ceb1fdbe7a"
+    },
+    {
+      "path": "Gateway Destination Vectors/pAd BLOCK-iT-DEST.dna",
+      "bytes": 79590,
+      "sha256": "3e05e6b2e6e6e950d3e19cbb4e739c5ff7c343d990570e263fe58a0714eaf361"
+    },
+    {
+      "path": "Gateway Destination Vectors/pAd CMV V5-DEST.dna",
+      "bytes": 84336,
+      "sha256": "ee7cfe21ba73fcceacd3f2a3ba7c310ff17cc5269dc692ee43e1396392376417"
+    },
+    {
+      "path": "Gateway Destination Vectors/pAd PL-DEST.dna",
+      "bytes": 79579,
+      "sha256": "7d0fef1aa77774bdaf459b124bf3a088d74b3879b329a6e4cfcfaf47dd44abee"
+    },
+    {
+      "path": "Gateway Destination Vectors/pBAD-DEST49.dna",
+      "bytes": 29677,
+      "sha256": "6110d7df989535b75e014aa1caf8d64ae5fa0f7f37291aa97f0305dcbdc2a264"
+    },
+    {
+      "path": "Gateway Destination Vectors/pCOLA-2-DEST.dna",
+      "bytes": 27960,
+      "sha256": "c79ffed49703121707b3044b369cb9722cf6ec3f02c7d0cc0f61252b3f1e96b9"
+    },
+    {
+      "path": "Gateway Destination Vectors/pCOLA-3-DEST.dna",
+      "bytes": 27981,
+      "sha256": "2ed3b2dfc8eafc1c85f05e49d39bec7ba4c2bf3f062293322d51ff7c01af3172"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST R4-R3 Vector II.dna",
+      "bytes": 22482,
+      "sha256": "d54b5dc82a9df001eae322c2a9185085ea4f41290755f1e9cdde53f1b8d239be"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST R4-R3.dna",
+      "bytes": 21983,
+      "sha256": "8f70df1ac428d6ff226b29fed16003c6457bc653c2c038fc1b7c88b16f79a6b8"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST10.dna",
+      "bytes": 30473,
+      "sha256": "87d371b4a1b5099630444538bebd31e6c308b9c39de27d584b821ce8852247d9"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST14.dna",
+      "bytes": 26651,
+      "sha256": "89c03cf12d68028bf87a1c6ec34aa1caeef2308b0acb24c1a545efb743e9b57d"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST15.dna",
+      "bytes": 28851,
+      "sha256": "8603105cc6d081be72147d4de6e6705a458459292ef3ccfcbd20fa48ae99bb98"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST17.dna",
+      "bytes": 27979,
+      "sha256": "1d98e0ca4660297575cb7f6b846ad4cb7f46a937bb31f2f40601993bc17e336a"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST20.dna",
+      "bytes": 30318,
+      "sha256": "a18eadf086a031ee76c18e9c85df47096c6805dbac8cd6636ea6e090bf0e1872"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST24.dna",
+      "bytes": 28517,
+      "sha256": "b56886cfba9dace1f4e5a9b28c69e0e8a52892df89f9d34ec53f2860842f179b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST26.dna",
+      "bytes": 32009,
+      "sha256": "92fb266e396c800abe96fcd6ae7384a8b1a34016cb7d1ad3dc3f95cd724c6926"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST27.dna",
+      "bytes": 32872,
+      "sha256": "de446995d0b866e64d190deb25d21a61b52436074c6d5ffbab1826058c75b956"
+    },
+    {
+      "path": "Gateway Destination Vectors/pDEST8.dna",
+      "bytes": 28478,
+      "sha256": "04869368e831fa91bf7efaf7e7a0f79fa98142cdd67356a827e4cb94ab5e92a8"
+    },
+    {
+      "path": "Gateway Destination Vectors/pEF-DEST51.dna",
+      "bytes": 32317,
+      "sha256": "1d19f731fd52559742bccaace1394700463995f8d6746aeb53e6305dca6fab7c"
+    },
+    {
+      "path": "Gateway Destination Vectors/pEF5 FRT V5-DEST.dna",
+      "bytes": 31616,
+      "sha256": "69edd23dce4332d01d5af9509a5fc4156c889bd7c3674df5385cbe3af48e18ae"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-53-DEST.dna",
+      "bytes": 32120,
+      "sha256": "fd63189b2f5769b586689501ce6ea2781a4a13419f11ca6bb484aa7b0778c533"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-54-DEST.dna",
+      "bytes": 32192,
+      "sha256": "a20a8761309216bc160c41c52c6f0f19fe7cd2c264d3267ee58922de52ed4815"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-55-DEST.dna",
+      "bytes": 32164,
+      "sha256": "4dd93a5d3e3f29d97e49eadbd2831a2924d7b7cb5b2e2523bf5728e8f0f35e0e"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-56-DEST.dna",
+      "bytes": 32189,
+      "sha256": "8f013c445ac5c6bff0cc17f69e33372637343ec14cb4c44fe655880a62ca6164"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-57-DEST.dna",
+      "bytes": 36637,
+      "sha256": "de9e875a2a36508886b4a62d9c3578083ea7079464d87f730732019d48116d93"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-58-DEST.dna",
+      "bytes": 36732,
+      "sha256": "5d59d7c70194bbdbcc41121a0299b28e00194ef61b625a405cdc27aebb58bbb1"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-59-DEST.dna",
+      "bytes": 34088,
+      "sha256": "79cd8757bfd34be979ce43ab911f1a6f6c8686239a62e21fca0eb83773903a5a"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-60-DEST.dna",
+      "bytes": 33482,
+      "sha256": "6f3ca4dc4c0111c45f75426a4407c225c3c50b6c19b1f394c1618fa25b34a317"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-61-DEST.dna",
+      "bytes": 32169,
+      "sha256": "1c29951e6b484193dfc4977b7dda2010237fb06e97f9584a3d58e24620f8e934"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-62-DEST.dna",
+      "bytes": 31393,
+      "sha256": "eed2a6cfcc671c25de5ea96e04bca638b5b70e6473148e01ba17c0f326ef99fd"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET-DEST42.dna",
+      "bytes": 32114,
+      "sha256": "c1c39056bf495fe146fa18da0b96df71b92a64ea100b56ea0f5fb4fbba30617d"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET104-DEST.dna",
+      "bytes": 33951,
+      "sha256": "0cc62dc98d955ed28179c233eb0fa8c353aa645caca68180e05a7965587270ab"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET104.1-DEST.dna",
+      "bytes": 34229,
+      "sha256": "0b5e2a43c36b6bf651812ddb5eded941eae3d5a8051dca94e7adba7e5c26d403"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET160-DEST.dna",
+      "bytes": 33551,
+      "sha256": "a98cf08c5438fa103104f27d10c890369f540c2cb7d02bc17ff9c518da876ad2"
+    },
+    {
+      "path": "Gateway Destination Vectors/pET161-DEST.dna",
+      "bytes": 33209,
+      "sha256": "4be4cd1e7ffd42130478772f1291f17fef10c4e0577babf119b5c7946b7d861b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pEXP1-DEST.dna",
+      "bytes": 25795,
+      "sha256": "5e474594e9e71e72171888b19af34dadb9094f099c5e444f0fad1d2123deb099"
+    },
+    {
+      "path": "Gateway Destination Vectors/pEXP2-DEST.dna",
+      "bytes": 24320,
+      "sha256": "90e718ead09256aeb162e382139bd897a1fbc959ea2d17f99a15a43fd3c0a6aa"
+    },
+    {
+      "path": "Gateway Destination Vectors/pEXP3-DEST.dna",
+      "bytes": 25734,
+      "sha256": "f03bd41762b47eb1e89aa46290ba1539654ad6a5ba89d63143e9349e3af66562"
+    },
+    {
+      "path": "Gateway Destination Vectors/pEXP4-DEST.dna",
+      "bytes": 24435,
+      "sha256": "b22be87b94351a3c043da833a5d12ed825e9ff8466d814b0b2f0e4f24e703668"
+    },
+    {
+      "path": "Gateway Destination Vectors/pHELLSGATE 12.dna",
+      "bytes": 51867,
+      "sha256": "75b2fa864b794163b91f9ddef0df0749333e1daeb7474df7729bba35b99d7f21"
+    },
+    {
+      "path": "Gateway Destination Vectors/pHELLSGATE 8.dna",
+      "bytes": 51577,
+      "sha256": "7c053ddef5416b77c429855d5d7c3baaf3ef8b7fa1a8007a6ffc25a2f8465d4b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pIB V5-His-DEST.dna",
+      "bytes": 26487,
+      "sha256": "4e8e2ff0819e1fcd1e38515198ab687491b9827ecf1727d877ee789c400f434e"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti4 BLOCK-iT-DEST.dna",
+      "bytes": 32650,
+      "sha256": "2ebb73eaf65292ef643c9fc15d646dc5f2a39504f5f7dc8ec5d229c5c932dc8c"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti4 V5-DEST.dna",
+      "bytes": 34197,
+      "sha256": "f8eda06db8739f28c76067f3836ef9552f5b163bceb2a25e390501e30138aa53"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6 BLOCK-iT-DEST.dna",
+      "bytes": 33405,
+      "sha256": "ef8ea44c818af95c5df3a1ed73e1a3e65470ac2593dd383a8bd76e3d7e96969d"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6 UbC V5-DEST.dna",
+      "bytes": 35102,
+      "sha256": "58c075dc137d41f7de3ec2c241c442d66789a665edabe78cbdd03c1ca6611c4b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6 V5-DEST.dna",
+      "bytes": 34129,
+      "sha256": "1aec4eb604a5795a8be14bd1b563519027243abcbb900f5efcedfd0502001998"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6 capTEV-CT-DEST.dna",
+      "bytes": 35929,
+      "sha256": "3df37305ed108980967e4dc60f16241a10674e848c5dd080ea1daa714a7b2c33"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6 capTEV-NT-DEST1.dna",
+      "bytes": 36141,
+      "sha256": "adce4ccb201a1174d779aba54aa7a8d3b954745c4020b436c18b67748a94928b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6.2 C-Lumio V5-DEST.dna",
+      "bytes": 34726,
+      "sha256": "282417fcc35e0b5c0e05afcff68c9ed0e1d7a8fffa7f28724d7d2044252be22e"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6.2 N-Lumio V5-DEST.dna",
+      "bytes": 35506,
+      "sha256": "534c89fe91a3d89e2b5182017e4bcf10d895ed2515c127cd43f689bf5ecd6292"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6.2 V5-DEST.dna",
+      "bytes": 34153,
+      "sha256": "07ec5bec0849ddfead18a0c4ec7c5bed52855c049e107521ca5939d505b3e39f"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6.3 TO V5-DEST.dna",
+      "bytes": 37067,
+      "sha256": "282c324a7cf7c2c8eec3b4bb86a5b56adde4259597573ec035aae2b2d7cc5330"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6.3 V5-DEST.dna",
+      "bytes": 36363,
+      "sha256": "c94a403ceafaae309b66dbe5694ac5d9fbd291d326635b41977750543bf37702"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti6.4 R4R2 V5-DEST.dna",
+      "bytes": 34731,
+      "sha256": "3d9aa5c7a955ed0d3c35e34291944eac3e907b7a96b0c93d927e144baebf5c8e"
+    },
+    {
+      "path": "Gateway Destination Vectors/pLenti7.3 V5-DEST.dna",
+      "bytes": 36381,
+      "sha256": "50bc42f4ceea01e320b835a65eee22a369d4cfa6a86bafa22cabf9e01885061b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pMT BioEase-DEST.dna",
+      "bytes": 26493,
+      "sha256": "2b85f4a85bb770c7f3efc4ce3cd2c64a3ab4808d110aa7fb58cc392b5a466d0f"
+    },
+    {
+      "path": "Gateway Destination Vectors/pMT-DEST48.dna",
+      "bytes": 24903,
+      "sha256": "8ceb8ece2e6cc582be93ab93566f3fe0c026a6fbc376f158267fecfa0a4d06a9"
+    },
+    {
+      "path": "Gateway Destination Vectors/pSCREEN-iT lacZ-DEST.dna",
+      "bytes": 32588,
+      "sha256": "6cee62392f7a43892fc7521199bfd0339105207da7eae2c84507fefc4bd05cc8"
+    },
+    {
+      "path": "Gateway Destination Vectors/pT-REx-DEST30.dna",
+      "bytes": 32374,
+      "sha256": "37ea29056e100ac1c8aeccba2b1b954bb7fb6ebc51863c6cf28abf3c8b009ea3"
+    },
+    {
+      "path": "Gateway Destination Vectors/pT-REx-DEST31.dna",
+      "bytes": 33399,
+      "sha256": "e894d7c53c4ca46ea2e5efc52161d145191fbeb2b4e2d3bb950a42c9d6acbfe7"
+    },
+    {
+      "path": "Gateway Destination Vectors/pYES-DEST52.dna",
+      "bytes": 31374,
+      "sha256": "3da1d28ecb040d45c6e2a6b6fbda4f8b9046be6a19dfd2c15ad2aa02d91c0219"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA-DEST40.dna",
+      "bytes": 31246,
+      "sha256": "60e53aedbe142d67e544c6a1b176736df473272e84d9306e902929ae8d2f18f8"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA-DEST47.dna",
+      "bytes": 32254,
+      "sha256": "bb6a4952f211be8c08791b54532d6547fe822f76b89dc780952e5779a8a534ab"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA-DEST53.dna",
+      "bytes": 32306,
+      "sha256": "f2a83f8b66bf755b9b63d23134091fac5ec95aa3322a81a51d5c8ec44e49d5b0"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA3.1 nV5-DEST.dna",
+      "bytes": 31741,
+      "sha256": "cccec4718e8fead8bc5bd2ecee38466762c5348286b8fbd0b81dbf343acbe1ff"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA3.2 V5-DEST.dna",
+      "bytes": 31566,
+      "sha256": "493f8410d48a3e2c08109cee710b59e9961fa33f148adb89194e54a8a06872f5"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA3.2 capTEV-CT V5-DEST.dna",
+      "bytes": 33614,
+      "sha256": "8eba89afd1299c4aa3b57c4e939381d66ac829c665114edea4dd2cc972a74fb3"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA3.2 capTEV-NT V5-DEST.dna",
+      "bytes": 33152,
+      "sha256": "32bd020773c394b40e4d05123b3290c05c47f586b2cbd593bdff41c7093f0a85"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 C-EmGFP-DEST.dna",
+      "bytes": 31953,
+      "sha256": "be10aeb9c4de00319fe5607c21194e0b3e320c14c32f9243aa9bcea9429bc58b"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 C-YFP-DEST.dna",
+      "bytes": 31978,
+      "sha256": "cb515e20c66a82f3e02956423762ab0bb40644251a5cdfa081910301a6212680"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 EmGFP-Bsd V5-DEST.dna",
+      "bytes": 33508,
+      "sha256": "f8af2806aad11f352b64178be2acefa89aadb324c0b7e8bfb1019cdbfd42a4ee"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 N-EmGFP-DEST.dna",
+      "bytes": 32383,
+      "sha256": "9ec9b63e83cfe42a2f2f86de77e59b11b3fba2ce6c3c40457f6fa914b593dc4f"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 N-YFP-DEST.dna",
+      "bytes": 32404,
+      "sha256": "78c32e6dbf8bc0631d1ce9cb883ea1a8ec1b3d6795125a544f63c68b98658153"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 V5-DEST.dna",
+      "bytes": 31006,
+      "sha256": "e9befb3ef43949944c0af308cb3f4e1563d38beafb1843412e4c0c1101785bbf"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 V5-pL-DEST.dna",
+      "bytes": 29374,
+      "sha256": "1a6936b94e0736e803718ac23fe871e476d0e5d6151fb89e594e9b9530b144e4"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 cGeneBLAzer-DEST.dna",
+      "bytes": 31949,
+      "sha256": "50243198297c0f71bbffb4272202d0cdd86f9b3bb2cf6bb6033a55149254aaae"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 cLumio-DEST.dna",
+      "bytes": 30840,
+      "sha256": "30ed9243b76eb80b220460e986a144c6c1a5b42450193c609ec52b9577af26b0"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 nGeneBLAzer-DEST.dna",
+      "bytes": 32549,
+      "sha256": "26eaf4bfc5f58935e93570c3054a7003a4e6f506c17bce30fc2bab2d0e7c6cc4"
+    },
+    {
+      "path": "Gateway Destination Vectors/pcDNA6.2 nLumio-DEST.dna",
+      "bytes": 31286,
+      "sha256": "75b850e24560ba634d2a912824df38c31c819e96c00b7f06f78a0f455519103b"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR P2r-P3.dna",
+      "bytes": 23221,
+      "sha256": "32b90673e51b6c7d7156204bf5ce5e4144bd165920a683d2a2d0993ffb8c6999"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR P4-P1r.dna",
+      "bytes": 23276,
+      "sha256": "3dd495c9b9dadaad519626f33a243ca289d3b4c654d50fa5cd3d0920418c4c94"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR Zeo.dna",
+      "bytes": 23192,
+      "sha256": "7023d5a0ac746f17d75957cbd570336641a66ef4b86b9135b838d89ff77347fa"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR201.dna",
+      "bytes": 22007,
+      "sha256": "01d9b3a400e9c19aadf1fb99ae75a34b9b6e31decbf287d3be177c1ce2f37f51"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR207.dna",
+      "bytes": 23906,
+      "sha256": "e4b21c19debe06e158ea7592f0ed38e1d9a6ebd5c5e58f05ceea0252f2843b2c"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221 P1-P4.dna",
+      "bytes": 23315,
+      "sha256": "8abbe8a6508c4b860cf545c53d8a659d0f2fe245bf2ca42b0387666b5dac2be2"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221 P1-P5r.dna",
+      "bytes": 23246,
+      "sha256": "a711e9b411045667f35c5319491dd6e790ec4de8929fda0e8094384567ecb5e0"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221 P3-P2.dna",
+      "bytes": 23314,
+      "sha256": "c50064c62509effb76fcd416f0374913f8e5068a83b19f7628dcb01d0045195a"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221 P4r-P3r.dna",
+      "bytes": 23182,
+      "sha256": "26fef17aad0f0f15fe66e57150f323986bee564a132ed907e5d997e1be0996d9"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221 P5-P2.dna",
+      "bytes": 23321,
+      "sha256": "1083bbdee6f047e8a723d1909b311c77f3c0dbd1bd99112d22bc0f06f1761f0b"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221 P5-P4.dna",
+      "bytes": 23211,
+      "sha256": "eed9a1b7a776d5d00b44386b669980f07f8cd08c4f3fa686bdfae9465df1cdbb"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR221.dna",
+      "bytes": 23283,
+      "sha256": "0950d960cf72a364e5b77c35afd8e0a43ff6fc7fdecc105b7e13831e02e7f1c9"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR222.dna",
+      "bytes": 23452,
+      "sha256": "e5f1f826763b7a1a59b0707eec35f2c0338543de0e12cd3165de8967ab0b6229"
+    },
+    {
+      "path": "Gateway Donor Vectors/pDONR223.dna",
+      "bytes": 24435,
+      "sha256": "ab001e9d790753d8dbda79c6f716e3986073752778682f0768d1dd425acb04eb"
+    },
+    {
+      "path": "TA Cloning Vectors/Allele TA Vector (linearized).dna",
+      "bytes": 52533,
+      "sha256": "4d94e5f02dbe5dd9904a9bd1ce2a93e82b5dcbba262325b4ab009095bf4e04f9"
+    },
+    {
+      "path": "TA Cloning Vectors/RBC T&A Cloning Vector (linearized).dna",
+      "bytes": 49346,
+      "sha256": "a1566866a93d55ae07896fcf26d85b5771ffe5bf7b8a3643bcb7e5ce94478015"
+    },
+    {
+      "path": "TA Cloning Vectors/T-Vector pMD19 (Simple).dna",
+      "bytes": 39308,
+      "sha256": "4e6787f93747cf9da6ab696b616a1067f561e2451a6b9becb3ae238be6d73104"
+    },
+    {
+      "path": "TA Cloning Vectors/T-Vector pMD20.dna",
+      "bytes": 33964,
+      "sha256": "e564f2ead3dda6a34e0422eb7c29df25f26cd2aaf74ade67191afb07b37c705b"
+    },
+    {
+      "path": "TA Cloning Vectors/pDrive (linearized).dna",
+      "bytes": 23947,
+      "sha256": "725c1de4d42791915dbb27a471a6292bf36c1de96d87e90ef25048de720fbb8d"
+    },
+    {
+      "path": "TA Cloning Vectors/pET SUMO (linearized).dna",
+      "bytes": 29332,
+      "sha256": "974e33835a671341398135f3542d75d23b683f2f1362e8a6f28f07176a81b2f1"
+    },
+    {
+      "path": "TA Cloning Vectors/pETBlue-1 AccepTor.dna",
+      "bytes": 22397,
+      "sha256": "6ac6f5c56382b0b5827f15be55b4be4f0d94ba491435cfbb53b0f0a0e9954587"
+    },
+    {
+      "path": "TA Cloning Vectors/pGEM-T (linearized).dna",
+      "bytes": 30055,
+      "sha256": "2e94ffb5cfc5baf4e7b424d0f189adb24d0b9c023fc2e57ee731699b3a7162c4"
+    },
+    {
+      "path": "TA Cloning Vectors/pGEM-T Easy (linearized).dna",
+      "bytes": 30427,
+      "sha256": "d823d517e22ff8400c3ba204dfc3943d2a34e8a3c1f6f55fdb6d5d77edc6ef97"
+    },
+    {
+      "path": "TA Cloning Vectors/pLPS-T (linearized).dna",
+      "bytes": 19954,
+      "sha256": "263769311ec14eea1451584f981bd7a0c85ebbf3cab4f82f0951282cb0908ef0"
+    },
+    {
+      "path": "TA Cloning Vectors/pLUG (linearized).dna",
+      "bytes": 27938,
+      "sha256": "ac732339c3687aac8e383eb95e871f84d8da922689da8b968a69c12a0871a5d8"
+    },
+    {
+      "path": "TA Cloning Vectors/pLUG-Multi (linearized).dna",
+      "bytes": 26911,
+      "sha256": "86008ff7ececbf546d09d67e57ad1d4d4a3036da2416edf16d94a1a3a9a1ce0e"
+    },
+    {
+      "path": "TA Cloning Vectors/pPrime (linearized).dna",
+      "bytes": 23930,
+      "sha256": "8ff215e1fec6609848e9558b6435beca8d494c6cfabb41480055098ed9685180"
+    },
+    {
+      "path": "TA Cloning Vectors/pQE-30 UA (linearized).dna",
+      "bytes": 22918,
+      "sha256": "698e37240a4a78992ece90d3fe132e938be0571ea9912ed31b141f1ffa6a23b0"
+    },
+    {
+      "path": "TA Cloning Vectors/pSC-A-amp kan (linearized).dna",
+      "bytes": 26578,
+      "sha256": "30e798905f9c09452618374b1b7a83271e84a13870413b1f0907324a9e4ca309"
+    },
+    {
+      "path": "TA Cloning Vectors/pSTBlue-1 AccepTor.dna",
+      "bytes": 23398,
+      "sha256": "acb3e0aa4968beea9612710bcaa2e40242fc1de1c0106f75efff407b94a50976"
+    },
+    {
+      "path": "TA Cloning Vectors/pSpark TA Done.dna",
+      "bytes": 21776,
+      "sha256": "7fa8454fcf9c2bf01ff48cca089a7b6299540db5d60c377b40af0abb35c21697"
+    },
+    {
+      "path": "TA Cloning Vectors/pSpark TA.dna",
+      "bytes": 29395,
+      "sha256": "7ae01c35db3b2f5275343025b581ab275d069330c3a7be7158a4def9d8482899"
+    },
+    {
+      "path": "TA Cloning Vectors/pT7Blue T-Vector.dna",
+      "bytes": 27376,
+      "sha256": "eaf9e647d6140779c95d272412d8d2462de62bc564e0352c1216205198befc1d"
+    },
+    {
+      "path": "TA Cloning Vectors/pTA Plus (linearized).dna",
+      "bytes": 19980,
+      "sha256": "02a4ffcd2d978ea50bb1152d8c8ae34b91379990e8425d7cb642e54c430020c7"
+    },
+    {
+      "path": "TA Cloning Vectors/pTOP TA V2 (linearized).dna",
+      "bytes": 23006,
+      "sha256": "5b0b8677ba1fd5f083cea124b19557b6ae16d6f1ba8e5748e6117be8c605e8ce"
+    },
+    {
+      "path": "TA Cloning Vectors/pTZ57R_T.dna",
+      "bytes": 30140,
+      "sha256": "07fdf3323a922a634d928f3e44736b6b844cc728408febdc8a7662fdbd556501"
+    },
+    {
+      "path": "TA Cloning Vectors/pTargeT (linearized).dna",
+      "bytes": 39896,
+      "sha256": "3d2d534e13b3998ace09cfc040ba231b9afebd280b26a67eab468624afa9ba8b"
+    },
+    {
+      "path": "TA Cloning Vectors/pUC57-T.dna",
+      "bytes": 27028,
+      "sha256": "a132bf93ce461cd4f19542eed04c16ae8bdd5dda741d0622983c8bea7d7caff2"
+    },
+    {
+      "path": "TA Cloning Vectors/pUCm-T (linearized).dna",
+      "bytes": 27417,
+      "sha256": "d43fda2f7ab4f79ee5018871f65d2aa01043c9e4f511732e84453bf405ba4f40"
+    },
+    {
+      "path": "TOPO Blunt Vectors/pCR-Blunt II-TOPO (linearized).dna",
+      "bytes": 23126,
+      "sha256": "6e99011b9e6118d25cee2086c00d35577f82221fa1a987f450b23f42f6be4631"
+    },
+    {
+      "path": "TOPO Blunt Vectors/pCR-XL-2-TOPO (linearized).dna",
+      "bytes": 23975,
+      "sha256": "944073956908b8a8c107a9debf919e6ddd3e6dce9cc9f3e92df3331e86b2151c"
+    },
+    {
+      "path": "TOPO Blunt Vectors/pCR4Blunt-TOPO (linearized).dna",
+      "bytes": 21259,
+      "sha256": "ae63b314216e6b88926b6e99a6d0c2676f3ad574e4b613c608606e6638169767"
+    },
+    {
+      "path": "TOPO Blunt Vectors/pLPS-B (linearized).dna",
+      "bytes": 19911,
+      "sha256": "2d3760178333697944d8a73a91f17cba15e47b8a99488eee6f798abcd53fa051"
+    },
+    {
+      "path": "TOPO Blunt Vectors/pTOP Blunt V2 (linearized).dna",
+      "bytes": 23002,
+      "sha256": "c491952bb8fedefd2842c6a9f99379ee90350192e63d7eab76a58c42dad089a6"
+    },
+    {
+      "path": "TOPO Directional Vectors/pBAD202 D-TOPO.dna",
+      "bytes": 23841,
+      "sha256": "aa89e38abb9b260ee1b5e472b047e7199d3e21f0a19ffabdd2643e26d11c34d3"
+    },
+    {
+      "path": "TOPO Directional Vectors/pEF5 FRT V5-D-TOPO.dna",
+      "bytes": 25781,
+      "sha256": "2d460d7fc5a1882a06321e8e9dc68cf977e49d603c786a1e2426ee1ef13023e3"
+    },
+    {
+      "path": "TOPO Directional Vectors/pENTR D-TOPO.dna",
+      "bytes": 18301,
+      "sha256": "234faed38c60835281103f3380c5d4c778be3305144aa026bb2e5f9d1a81b481"
+    },
+    {
+      "path": "TOPO Directional Vectors/pENTR SD D-TOPO.dna",
+      "bytes": 18842,
+      "sha256": "84f6b04ea6c842b02d4ce63fd27f318e5b027679021712de219e3f657df34064"
+    },
+    {
+      "path": "TOPO Directional Vectors/pENTR TEV D-TOPO.dna",
+      "bytes": 18992,
+      "sha256": "561bcfde83bf509a085c6ef5290551ed5c6b47d3bf1c53bc25e1b370d2bedf86"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET100 D-TOPO.dna",
+      "bytes": 27980,
+      "sha256": "81b0ec71cbdd981e79e9d9a9d7d16e813a15adcef4df7b44256c13d911772131"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET101 D-TOPO.dna",
+      "bytes": 26889,
+      "sha256": "758b0bd1bfdfdace1f7a98dc0c4f2a39b5dbc20dcf8b723ee0812feea0fbd99a"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET102 D-TOPO.dna",
+      "bytes": 29061,
+      "sha256": "45cd637192f4d057ec532e511d62871e870dec349a79f88d46ad82a041a33443"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET151 D-TOPO.dna",
+      "bytes": 27710,
+      "sha256": "06f922986194f82ac5d5cf710201beb15bf40b8d71322ae4c4265b6bc3e061d0"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET160 GW D-TOPO.dna",
+      "bytes": 29100,
+      "sha256": "be748e3d443fde971800a8c567317a265bdf387c6875acc468237bbb6e636fdd"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET161 GW D-TOPO.dna",
+      "bytes": 29297,
+      "sha256": "f90025f6e9693afbda5b5b4127b7b26a48302b7de76f4b50b0f0eefd206cabfa"
+    },
+    {
+      "path": "TOPO Directional Vectors/pET200 D-TOPO.dna",
+      "bytes": 28028,
+      "sha256": "eba62ace0b37866f9b23614b070c59c9f7a79c0c46422f452447043c37b417e5"
+    },
+    {
+      "path": "TOPO Directional Vectors/pLenti6 V5-D-TOPO.dna",
+      "bytes": 28249,
+      "sha256": "bfd97bf2a32c4aaff82152284b5bb3c8c44c8047d799eeca292b664a0aa764e4"
+    },
+    {
+      "path": "TOPO Directional Vectors/pcDNA3.1D V5-His-TOPO.dna",
+      "bytes": 25541,
+      "sha256": "b744cb009654efa9a0877f0d22928251d907c3705422426196ccbd16be7d07d1"
+    },
+    {
+      "path": "TOPO Directional Vectors/pcDNA3.2 V5 GW D-TOPO.dna",
+      "bytes": 26519,
+      "sha256": "71613ca9a058c9343a3c8980d4a7c38d204c5da88bf879dc1e00ff315f5f4815"
+    },
+    {
+      "path": "TOPO Directional Vectors/pcDNA6.2 V5 GW D-TOPO.dna",
+      "bytes": 25952,
+      "sha256": "09c6a3916bf2fe1f5a7015c01c43bc669ea13663c1d337f56a7513def2d96df7"
+    },
+    {
+      "path": "TOPO Directional Vectors/pcDNA6.2 cGeneBLAzer-GW D-TOPO.dna",
+      "bytes": 27558,
+      "sha256": "1c1eaadd78bdf5d4adf4ef52752b14c5166bc57c5e1fac7e9e45f974056b32e6"
+    },
+    {
+      "path": "TOPO TA Vectors/pBAD Thio-TOPO (linearized).dna",
+      "bytes": 63535,
+      "sha256": "e39c5b8cd2c2e74c29d86f2ff63e2db3c8229b5378b2f6275af02e0ffa18db43"
+    },
+    {
+      "path": "TOPO TA Vectors/pBAD-TOPO (linearized).dna",
+      "bytes": 60711,
+      "sha256": "62df52dc1d4b694e2a99655286b5c7ff7ebcf4997dee4055bd3b2c0f996f7f3e"
+    },
+    {
+      "path": "TOPO TA Vectors/pBlue-TOPO (linearized).dna",
+      "bytes": 84011,
+      "sha256": "1aab7fbf6c5e34b555bf97924ec6fc0dff3b12b83e3e294e80ee4f1ea308ce52"
+    },
+    {
+      "path": "TOPO TA Vectors/pCR-XL-TOPO (linearized).dna",
+      "bytes": 66789,
+      "sha256": "7c640dbdeb08f54e0c119521c259001a2e7b9f0d1cbadbccecc2c66a39ec7e78"
+    },
+    {
+      "path": "TOPO TA Vectors/pCR2.1-TOPO (linearized).dna",
+      "bytes": 64028,
+      "sha256": "3917034f664574c23b71db0c6e1d54fa8d17ad82fe9aaf8238ed91b0aebac950"
+    },
+    {
+      "path": "TOPO TA Vectors/pCR4-TOPO (linearized).dna",
+      "bytes": 67697,
+      "sha256": "5915547c450003c7db03de9b32a82433c947e7dc8770acabf547e80e2c69e0d0"
+    },
+    {
+      "path": "TOPO TA Vectors/pCR8 GW TOPO (linearized).dna",
+      "bytes": 48899,
+      "sha256": "82b27eaa419a040b641da5333fc0c24d7c80bc445e05beabc17169325c3228ea"
+    },
+    {
+      "path": "TOPO TA Vectors/pCRII-TOPO (linearized).dna",
+      "bytes": 66214,
+      "sha256": "6e806460b970c01d89ce00b28e6b714a0ba44008b6fb5658cd191f4268afd47d"
+    },
+    {
+      "path": "TOPO TA Vectors/pEF6 V5-His-TOPO (linearized).dna",
+      "bytes": 69539,
+      "sha256": "546e2370fa7f9a251221c6052fd86ac018eb9ce3dcfa88a9e594c9c1384535ab"
+    },
+    {
+      "path": "TOPO TA Vectors/pENTR5'-TOPO (linearized).dna",
+      "bytes": 47530,
+      "sha256": "76aa410f8c769caac9b317df7203a4d820704f3eac66f38707a0e28ee56049ab"
+    },
+    {
+      "path": "TOPO TA Vectors/pEXP5-CT TOPO (linearized).dna",
+      "bytes": 41502,
+      "sha256": "56cc446a2a777fb9c8ca78d9cfa7f9500bf23db07736664a7f4cd413a9bbd7ee"
+    },
+    {
+      "path": "TOPO TA Vectors/pEXP5-NT TOPO (linearized).dna",
+      "bytes": 50381,
+      "sha256": "23608c56a463cd2ec8f1cd09a7dd9dcd7bddad53529edd050284a338c86f39bd"
+    },
+    {
+      "path": "TOPO TA Vectors/pGlow-TOPO (linearized).dna",
+      "bytes": 62121,
+      "sha256": "5a34ee14ba63d46a6d48f1b133807f1092b41348b5e8a65eccc1df19e96e4c8f"
+    },
+    {
+      "path": "TOPO TA Vectors/pIB V5-His-TOPO (linearized).dna",
+      "bytes": 54059,
+      "sha256": "c47e4c5adf2768b36f37ad8575828b6bc771d92ac13459fcf52f1e3e17df0ee2"
+    },
+    {
+      "path": "TOPO TA Vectors/pLenti6.3 V5-TOPO (linearized).dna",
+      "bytes": 91727,
+      "sha256": "737124850e38391ce7096343f4b34a5acd0e092030687ff838813b9d47949343"
+    },
+    {
+      "path": "TOPO TA Vectors/pLenti7.3 V5-TOPO (linearized).dna",
+      "bytes": 90985,
+      "sha256": "3157a713d791a16a23bacc30e7187e9c323c6c60e517a1890a28370be0362755"
+    },
+    {
+      "path": "TOPO TA Vectors/pMT V5-His-TOPO (linearized).dna",
+      "bytes": 56256,
+      "sha256": "912e08f87a07378d1a544860df24c68618987f2f9686d28b97fcb1cd7c2f0cb0"
+    },
+    {
+      "path": "TOPO TA Vectors/pOptiVEC-TOPO (linearized).dna",
+      "bytes": 48722,
+      "sha256": "fe8d9a2287eebd9b6ae3f9152d2fa3208ac906d3a72ed0dfd6b74e6cfb06bb0c"
+    },
+    {
+      "path": "TOPO TA Vectors/pSecTag FRT V5-His-TOPO (linearized).dna",
+      "bytes": 67431,
+      "sha256": "1dc8978dabc5ea5791966344a25f4374626a92e64d82e59444223694aff59970"
+    },
+    {
+      "path": "TOPO TA Vectors/pTrcHis-TOPO (linearized).dna",
+      "bytes": 80279,
+      "sha256": "36a7d2681344a4c1b6a20238f6bdbe5cfd06fe11e37815b6bf279a56dbf36551"
+    },
+    {
+      "path": "TOPO TA Vectors/pTrcHis2-TOPO (linearized).dna",
+      "bytes": 73313,
+      "sha256": "e000885b1c6a8c62905bea384b56fce1c62fc60b84f418f866abf997e1f78dc4"
+    },
+    {
+      "path": "TOPO TA Vectors/pYES2.1 V5-His-TOPO (linearized).dna",
+      "bytes": 66076,
+      "sha256": "5d7b4aad24c1487a8a64bbc4a0987d66e31427a8ad485a295d5215f13d329601"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA3.1 CT-GFP-TOPO (linearized).dna",
+      "bytes": 68632,
+      "sha256": "8df746e88d0bbfb9718e832456b27a0fbeaadcd0cee447cdae0568cfc3280f3e"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA3.1 NT-GFP-TOPO (linearized).dna",
+      "bytes": 75292,
+      "sha256": "6571501b9f928c96955b0b5285a52f34fd842930b6777c4e05999bbff1bcbcf6"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA3.1 V5-His-TOPO (linearized).dna",
+      "bytes": 67260,
+      "sha256": "bbb7b01d3835324bf9c069f103c4cdb77fe8695297546416e7c7c3d345e48d88"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA3.3-TOPO (linearized).dna",
+      "bytes": 58933,
+      "sha256": "64bd729e35203a3215bd72b54e303e9a6612cd5bb745723180b63559146fde74"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA3.4-TOPO (linearized).dna",
+      "bytes": 62643,
+      "sha256": "f6d13de0e891fdd53bd417aba1dd7d125a74c86e017052271effe2213b56c5e3"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA4 HisMax-TOPO (linearized).dna",
+      "bytes": 78488,
+      "sha256": "feb6596292e4a1c0a34f813dcdc2b78ac6aa77955bf289373665ce48fe2932c6"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA5 FRT TO-TOPO (linearized).dna",
+      "bytes": 63431,
+      "sha256": "9848650fe848aeff4d2892aaac241ee821070f811e2196848d9a7f0a0c317540"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA5 FRT V5-His-TOPO (linearized).dna",
+      "bytes": 63864,
+      "sha256": "a53ee264dab8b341342c0b55b255353f9181f3c0322d5b63cee2f9f5badf475c"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA6.2 C-EmGFP-GW TOPO (linearized).dna",
+      "bytes": 78215,
+      "sha256": "297a8d0c162a1287338eabe9372c5cbfda82eb5356202cfcaf2b54eec3d28c60"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA6.2 C-YFP-GW TOPO (linearized).dna",
+      "bytes": 78198,
+      "sha256": "56781a986e421eca45ed01b1b82543e45b2a26ba7359fd7cfff5f3a48c0720c5"
+    },
+    {
+      "path": "TOPO TA Vectors/pcDNA6.2 N-EmGFP-GW TOPO (linearized).dna",
+      "bytes": 80053,
+      "sha256": "86cf18ec6ce9660a796c137af15ec0f629a9b8572b1018067ec197dcb57af162"
+    }
+  ]
+}

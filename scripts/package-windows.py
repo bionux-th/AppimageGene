@@ -16,6 +16,7 @@ if not binary.is_file():raise SystemExit('Build appimagegene.exe first: '+str(bi
 out=root/'dist'/('AppimageGene-windows-x64-'+args.target.rsplit('-',1)[-1])
 out.mkdir(parents=True,exist_ok=True)
 shutil.copy2(binary,out/binary.name)
+shutil.copytree(root/'assets/resources',out/'assets/resources',dirs_exist_ok=True)
 if args.target.endswith('-gnu'):
     pending=[out/binary.name];seen=set()
     while pending:

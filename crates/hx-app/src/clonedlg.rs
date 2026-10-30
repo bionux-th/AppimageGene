@@ -1528,6 +1528,12 @@ fn enzyme_names(pick: &Pick) -> String {
 }
 
 fn sg_resources_dir() -> Option<PathBuf> {
+    // AG-owned resources take precedence; no SG installation is required.
+    if let Some(dir)=std::env::current_exe().ok().and_then(|p|p.parent().map(Path::to_path_buf)){
+        for relative in ["assets/resources","resources"]{let p=dir.join(relative);if p.join("Plasmids").is_dir(){return Some(p);}}
+    }
+    let bundled=Path::new(env!("CARGO_MANIFEST_DIR")).join("../../assets/resources");
+    if bundled.join("Plasmids").is_dir(){return Some(bundled);}
     if let Ok(p) = std::env::var("HELIX_SNAP_SGENE_RESOURCES") {
         let p = PathBuf::from(p);
         if p.is_dir() {
@@ -1546,7 +1552,7 @@ fn sg_resources_dir() -> Option<PathBuf> {
     None
 }
 
-/// Existing local templates only: no redistribution, download or fabricated DNA.
+/// Authorized bundled templates, with optional external-resource fallback.
 pub(crate) fn vector_library_entries(category: &str) -> Vec<(String, PathBuf)> {
     let Some(base) = sg_resources_dir() else { return Vec::new(); };
     list_std(&base.join("Plasmids").join(category), &[]).into_iter()
@@ -1596,6 +1602,16 @@ fn list_std(dir: &Path, preferred: &[&str]) -> Vec<StdEntry> {
         }
     }
     out
+}
+
+#[cfg(test)]
+mod bundled_vector_tests{
+    #[test]fn bundled_vectors_are_complete_native_files_with_preserved_ends(){
+        let root=std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../../assets/resources/Plasmids");let mut count=0;
+        for category in std::fs::read_dir(&root).unwrap(){let category=category.unwrap().path();if !category.is_dir(){continue;}let name=category.file_name().unwrap().to_str().unwrap();let listed=super::vector_library_entries(name);assert!(!listed.is_empty(),"{name}");
+            for entry in std::fs::read_dir(category).unwrap(){let path=entry.unwrap().path();if !path.is_file(){continue;}let bytes=std::fs::read(&path).unwrap();let file=hx_formats::DnaFile::parse(&bytes).unwrap();assert_eq!(file.to_bytes(),bytes);assert!(file.sequence().unwrap().len()>0);let doc=crate::doc::Document::from_bytes(bytes).unwrap();if !doc.circular(){assert_eq!(doc.cloning_source("template").ends,file.end_properties(),"{}",path.display());}count+=1;}
+        }assert_eq!(count,176);
+    }
 }
 
 fn load_std_source(path: &Path) -> Option<Source> {

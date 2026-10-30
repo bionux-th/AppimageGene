@@ -22,7 +22,7 @@ AppimageGene（AG）是一款使用 Rust 开发的 DNA、RNA 和蛋白质序列�
 
 **限制：**凝胶迁移仍为近似模拟；原生比对结果目前只读；部分菜单明确禁用。中文适配仍可能在复杂诊断或外部工具消息中保留英文。请保留重要序列的备份，并核验计算结果。
 
-AppimageGene 是独立项目，不隶属于 SnapGene 或其权利人，也不要求安装 SnapGene 才能启动。可选的本地商业载体模板不随项目分发。
+AppimageGene 是独立项目，不隶属于 SnapGene 或其权利人。自带 176 个经维护者确认可公开再分发的克隆载体模板（TA、GC、TOPO、Gateway），无需安装 SnapGene；第三方模板不适用项目 MIT 许可，详见 THIRD_PARTY_NOTICES.md。
 
 ## 从源码构建
 
@@ -69,7 +69,7 @@ Linux + MinGW 交叉构建：安装匹配的 Rust `x86_64-pc-windows-gnu` 标准
 - `scripts/windows-smoke.ps1`：独立配置下的 Windows 手动检查。
 - `scripts/install-appimagegene-desktop.sh`：Linux 用户桌面集成。
 
-公开源码不包含研究目录、开发截图、商业模板和编译产物。核心回归使用源码内合成数据；需要本地软件安装／样例的可选测试可能跳过，跳过不表示兼容性验证通过。
+公开源码不包含研究目录、开发截图和编译产物。经授权的载体模板位于 `assets/resources/Plasmids`；分发程序时请保留同级 `assets/resources`。运行时优先使用程序旁的资源，其次使用源码资源，最后才回退到可选的外部资源目录。核心回归使用源码内合成数据；需要本地样例的可选测试可能跳过，跳过不表示兼容性验证通过。
 
 ## 组件与第三方许可
 
