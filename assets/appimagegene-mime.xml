@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+ <mime-type type="application/x-appimagegene-dna"><comment>AppimageGene DNA sequence</comment><glob pattern="*.dna"/><icon name="application-x-appimagegene-dna"/></mime-type>
+ <mime-type type="application/x-appimagegene-rna"><comment>AppimageGene RNA sequence</comment><glob pattern="*.rna"/><icon name="application-x-appimagegene-rna"/></mime-type>
+ <mime-type type="application/x-appimagegene-prot"><comment>AppimageGene protein sequence</comment><glob pattern="*.prot"/><icon name="application-x-appimagegene-prot"/></mime-type>
+</mime-info>

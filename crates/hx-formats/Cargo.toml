@@ -1,0 +1,11 @@
+[package]
+name = "hx-formats"
+description = "SnapGene .dna/.rna/.prot 文件格式层：TLV 块读写与二进制块编解码"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+
+[dependencies]
+hx-core.workspace = true

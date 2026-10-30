@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=AppimageGene
+Comment=DNA, RNA and protein sequence editor
+Exec=appimagegene %F
+Icon=appimagegene
+Terminal=false
+Categories=Science;Biology;
+MimeType=application/x-appimagegene-dna;application/x-appimagegene-rna;application/x-appimagegene-prot;
+StartupWMClass=appimagegene

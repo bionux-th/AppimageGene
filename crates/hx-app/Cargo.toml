@@ -1,0 +1,25 @@
+[package]
+name = "hx-app"
+description = "egui/eframe 桌面壳：图谱/序列视图、酶切显示"
+version.workspace = true
+edition.workspace = true
+# eframe 0.37 要求 Rust ≥ 1.95（核心 crates 仍保持 1.80 MSRV）
+rust-version = "1.95"
+license.workspace = true
+authors.workspace = true
+
+[[bin]]
+name = "appimagegene"
+path = "src/main.rs"
+
+[dependencies]
+eframe = { version = "0.37", default-features = false, features = ["glow", "default_fonts", "x11", "wayland", "clipboard"] }
+hx-core.workspace = true
+hx-formats.workspace = true
+hx-enzymes.workspace = true
+hx-algo.workspace = true
+hx-render.workspace = true
+hx-vienna = { path = "../hx-vienna" }
+
+[target.'cfg(windows)'.dependencies]
+rfd = { version = "0.15", default-features = false }

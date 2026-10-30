@@ -1,0 +1,30 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/hx-core",
+    "crates/hx-formats",
+    "crates/hx-enzymes",
+    "crates/hx-algo",
+    "crates/hx-render",
+    "crates/hx-app",
+    "crates/hx-cli",
+    "crates/hx-vienna",
+]
+
+[workspace.package]
+version = "0.0.1"
+edition = "2021"
+rust-version = "1.80"
+license = "MIT"
+authors = ["HelixBench contributors"]
+
+[workspace.dependencies]
+hx-core = { path = "crates/hx-core" }
+hx-formats = { path = "crates/hx-formats" }
+hx-enzymes = { path = "crates/hx-enzymes" }
+hx-algo = { path = "crates/hx-algo" }
+hx-render = { path = "crates/hx-render" }
+hx-app = { path = "crates/hx-app" }
+hx-cli = { path = "crates/hx-cli" }
+
+thiserror = "2"

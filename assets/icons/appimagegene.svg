@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+ <title>AppimageGene — micropipette</title>
+ <g transform="translate(64 64) scale(1.12 1.06) translate(-64 -64) rotate(32 64 64)" fill="#28baff">
+  <rect x="53" y="6" width="22" height="8" rx="2"/>
+  <path d="M61 14h6v13h-6zM46 26h36v8H46z"/>
+  <path d="M47 34h34v35c0 8-7 14-13 18h-8c-6-4-13-10-13-18z"/>
+  <path d="M60 87h8v19h-8zM60 106h8l-3 22h-2z"/>
+  <path d="M78 37h10v21H78z"/>
+ </g>
+ <path d="m69 39 8 5-11 18-8-5z" fill="#fff" opacity=".9"/>
+</svg>

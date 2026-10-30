@@ -1,0 +1,10 @@
+[package]
+name = "hx-render"
+description = "图谱/序列视图几何层（与 UI 解耦，可复用于 SVG/PNG 导出）"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+
+# 纯几何层：不依赖其它 crate（egui/hx-* 均无关）

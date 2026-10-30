@@ -1,0 +1,10 @@
+[package]
+name = "hx-core"
+description = "AppimageGene 域模型：分子类型、序列属性位、链性/拓扑（UI 无关）"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+
+[dependencies]

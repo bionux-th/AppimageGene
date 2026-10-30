@@ -1,0 +1,9 @@
+/target
+/dist/
+/docs/
+/research/
+/SG_function.md
+**/__pycache__/
+*.pyc
+**/*.rs.bk
+*.dna.tmp

@@ -1,0 +1,19 @@
+[package]
+name = "hx-cli"
+description = "黄金测试与调试驱动（roundtrip / dump / stats）"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+
+[[bin]]
+name = "hx-cli"
+path = "src/main.rs"
+
+[dependencies]
+hx-core.workspace = true
+hx-formats.workspace = true
+hx-algo.workspace = true
+hx-enzymes.workspace = true
+hx-render.workspace = true

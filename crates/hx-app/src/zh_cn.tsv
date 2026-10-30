@@ -1,0 +1,1093 @@
+# UI-owned English text<TAB>Simplified Chinese. Biological identifiers are not translated.
+Windows native file dialog	Windows 原生文件对话框
+Product:  {}..{}  ({} bp)	产物：{}..{}（{} 碱基对）
+Primer 1:	引物 1：
+Primer 2:	引物 2：
+Info	信息
+Required donor: attP{} {} / attP{} {}	所需供体：attP{} {} / attP{} {}
+Donor for Fragment:	片段的供体：
+attB Fragment:	attB 片段：
+Open (focus path box)	打开（聚焦路径输入框）
+Export current view as SVG	将当前视图导出为 SVG
+Undo / Redo	撤销／重做
+Cut / Copy / Paste at cursor	剪切／复制／在光标处粘贴
+Delete selection	删除选区
+Select whole sequence	选择完整序列
+Clear selection	清除选区
+Fit to window	适合窗口
+Zoom in / out	放大／缩小
+Sequence: select · Linear map: pan	序列：选择 · 线性图谱：平移
+circular	环状
+linear	线性
+aa	氨基酸
+Export DNA…	导出 DNA…
+Export RNA…	导出 RNA…
+Export Protein…	导出蛋白质…
+Export Selected DNA…	导出选定 DNA…
+Export Selected RNA…	导出选定 RNA…
+Export Selected Protein…	导出选定蛋白质…
+Export History…	导出历史…
+Export Map (SVG)	导出图谱（SVG）
+Show enzymes	显示酶
+Show colors	显示颜色
+Show translation numbering	显示翻译编号
+Show as circular	显示为环状
+Show as linear	显示为线性
+Line width: wrap to window	行宽：按窗口换行
+Line width: {} bp	行宽：{} 碱基对
+View all segments in features view	在特征视图中查看所有片段
+Frame +1 Only	仅 +1 阅读框
+Frame +2 Only	仅 +2 阅读框
+Frame +3 Only	仅 +3 阅读框
+Frame -1 Only	仅 -1 阅读框
+Frame -2 Only	仅 -2 阅读框
+Frame -3 Only	仅 -3 阅读框
+Top 3 Frames	上链三个阅读框
+Bottom 3 Frames	下链三个阅读框
+All 6 Frames	全部六个阅读框
+GC Content	GC 含量
+Purine vs Pyrimidine	嘌呤与嘧啶
+Nucleotide Colors	核苷酸配色
+DATE ADDED	添加日期
+MODIFICATION	修饰
+BP reaction scheme · product not generated	BP 反应示意图 · 尚未生成产物
+Recognition site: {}	识别序列：{}
+Overhang: {}	突出端：{}
+Sites in this sequence: {}	此序列中的位点数：{}
+Gel	凝胶
+DNA alignment	DNA 比对
+Protein alignment	蛋白质比对
+From	从
+To	至
+GC content	GC 含量
+Tm ({}-mer annealed)	Tm（{} 聚体退火）
+Tm (full primer)	Tm（完整引物）
+Annealing site	退火位点
+Hairpin	发夹结构
+Self-dimer	自身二聚体
+Cross-dimer	交叉二聚体
+none	无
+none detected	未检出
+• Drag the file into this box.	• 将文件拖入此框。
+To choose the Destination Vector, either:	选择目的载体的方法：
+To choose the Donor Vector, either:	选择供体载体的方法：
+Please choose an attB Fragment.	请选择 attB 片段。
+Please choose a Donor Vector for every Fragment.	请为每个片段选择供体载体。
+Please specify a suitable Donor Vector.	请指定合适的供体载体。
+Please select the attB Fragment region to amplify.	请选择要扩增的 attB 片段区域。
+Please choose an Entry Clone.	请选择入门克隆。
+Please choose a Destination Vector.	请选择目的载体。
+Please select the Vector region to amplify.	请选择要扩增的载体区域。
+Please select the Fragment region to amplify.	请选择要扩增的片段区域。
+Select a valid restriction enzyme.	请选择有效的限制酶。
+Select two cuts that define a double-stranded fragment.	请选择可形成双链片段的两个切口。
+Always creates the product; skipping product creation is not implemented yet.	始终创建产物；尚未实现跳过产物创建。
+< Please choose a linear sequence >	< 请选择线性序列 >
+Choose a source file.	请选择源文件。
+Using the source's existing ends. Choose an enzyme to digest it first.	使用来源现有末端；选择酶可先进行酶切。
+Choose an enzyme to see the insertion sites.	选择酶以查看插入位点。
+Choose attB PCR Primers…	选择 attB PCR 引物…
+Choose Overlapping PCR Primers…	选择重叠 PCR 引物…
+Writing intermediate files is not implemented yet.	尚未实现中间文件写入。
+Please choose a Fragment source.	请选择片段来源。
+Please choose all source files.	请选择所有源文件。
+Select the region to amplify on every PCR template.	请在每个 PCR 模板上选择扩增区域。
+Primer:  {}-mer	引物：{} 聚体
+Primer:  {}-mer  ·  {}% GC	引物：{} 聚体 · {}% GC
+Insert fragment	插入片段
+Insert fragments	插入多个片段
+Golden gate assembly	Golden Gate 组装
+Pcr amplification	PCR 扩增
+New file from selection	从选区新建文件
+Convert to single-stranded	转为单链
+Convert to double-stranded	转为双链
+Change methylation	更改甲基化
+Primer-directed mutagenesis	引物定向突变
+Replace sequence	替换序列
+Delete sequence	删除序列
+Insert sequence	插入序列
+Opened {}: {}	已打开 {}：{}
+Imported {}	已导入 {}
+New file: {} {} — not saved yet	新文件：{} {}——尚未保存
+Created {} — not saved yet	已创建 {}——尚未保存
+Created {}: {} {}, {} features — not saved yet	已创建 {}：{} {}，{} 个特征——尚未保存
+Removed feature {}	已移除特征 {}
+Duplicated primer as {}	已复制引物为 {}
+Removed primer {}	已移除引物 {}
+Switched to {}	已切换至 {}
+Moved tab to position {}	已将标签页移至位置 {}
+Selected whole sequence ({} bp)	已选择完整序列（{} 碱基对）
+Saved {} ({} bytes)	已保存 {}（{} 字节）
+Showed {} in file manager	已在文件管理器中显示 {}
+Copied dot-bracket structure ({} bases)	已复制点括号结构（{} 个碱基）
+Added {}	已添加 {}
+Inverted selection → {} .. {}	已反选 → {} .. {}
+Selected {} .. {}	已选择 {} .. {}
+Product: {} bp.	产物：{} 碱基对。
+Product: {} bp · linear	产物：{} 碱基对 · 线性
+Overlap at the junction: {} bp.	连接位点重叠：{} 碱基对。
+Entry Clone: {} bp	入门克隆：{} 碱基对
+Unknown enzyme {}	未知酶 {}
+Unsupported native document type	不支持的原生文档类型
+Unsupported PCR lane definition	不支持的 PCR 泳道定义
+Native document type changed	原生文档类型发生变化
+Enter non-empty oligos using A/C/G/T only.	请输入仅含 A/C/G/T 的非空寡核苷酸序列。
+The oligos do not overlap at this offset.	寡核苷酸在此偏移下没有重叠。
+The overlap is not complementary at this offset.	此偏移下的重叠区域不互补。
+Invalid PCR range	PCR 范围无效
+Invalid PCR lane coordinates	PCR 泳道坐标无效
+Primer name is required	必须填写引物名称
+Primer sequence is required	必须填写引物序列
+Primer sequence must be A/C/G/T	引物序列必须由 A/C/G/T 组成
+No binding site found in this sequence	未在此序列中找到结合位点
+this file is a read-only preview	此文件为只读预览
+PDF renderer did not return a P6 PPM image.	PDF 渲染器未返回 P6 PPM 图像。
+unsupported PPM dimensions or sample depth.	不支持的 PPM 尺寸或采样深度。
+Please choose a linearized Vector, or linearize it by PCR or restriction digestion.	请选择线性化载体，或通过 PCR／限制酶切将载体线性化。
+Please select a valid Fragment region.	请选择有效的片段区域。
+Please select a linear Fragment region; a circular source cannot be inserted directly.	请选择线性片段区域；不能直接插入环状来源。
+A circular source must be linearized before ligation.	环状来源必须在线性化后才能连接。
+Select a valid fragment region.	请选择有效的片段区域。
+Please select a valid amplified region.	请选择有效的扩增区域。
+Select at least 40 bases for automatic primer design.	自动设计引物至少需要选择 40 个碱基。
+Select a valid amplified region.	请选择有效的扩增区域。
+blunt	平端
+5' overhang	5′ 突出端
+3' overhang	3′ 突出端
+type IIS	IIS 型
+Linearize…	线性化…
+Convert to Single-Stranded…	转为单链…
+Anneal Oligos…	寡核苷酸退火…
+Make RNA…	生成 RNA…
+Make Protein…	生成蛋白质…
+Enter a file name without directory separators or leading/trailing spaces.	请输入不含目录分隔符且首尾没有空格的文件名。
+Keep the original file extension.	请保留原文件扩展名。
+The source file no longer exists.	源文件已不存在。
+Binding site: {}  {} .. {}  ·  {} annealed bases  ·  Tm = {}°C	结合位点：{}  {} .. {}  ·  {} 个退火碱基  ·  Tm = {}°C
+Vector left end	载体左端
+Junction {}	连接位点 {}
+Binding site	结合位点
+Tm	熔解温度
+Ready to assemble	可以组装
+Ready to clone	可以克隆
+Ready to ligate	可以连接
+Please specify two primers.	请指定两条引物。
+Untitled.dna	未命名.dna
+This file is not valid UTF-8; invalid bytes are shown as replacement characters, so editing is disabled.	此文件不是有效的 UTF-8；无效字节显示为替代字符，因此禁止编辑。
+Preview limited to the first 2 MiB, so editing is disabled.	预览仅显示前 2 MiB，因此禁止编辑。
+PDF files are read-only	PDF 文件为只读
+This PDF has no pages.	此 PDF 没有页面。
+PDF renderer stopped unexpectedly.	PDF 渲染器意外停止。
+PDF preview needs poppler-utils (`pdfinfo` and `pdftoppm`). Install it, or use Open externally.	PDF 预览需要 poppler-utils（pdfinfo 和 pdftoppm）。请安装它，或使用外部程序打开。
+History could not be read: {}	无法读取历史：{}
+Reaction scheme · not to scale	反应示意图 · 非按比例绘制
+Not generated	尚未生成
+Not selected	尚未选择
+Expression Clone	表达克隆
+Ligate	连接
+Clone	克隆
+Insert {} into {}	将{}插入 {}
+Replace {} {} .. {}:	替换{} {} .. {}：
+Insert after {} {}:	在{} {} 之后插入：
+Amino Acids	氨基酸
+Bases	碱基
+amino acid	氨基酸
+base	碱基
+Page {}: {}	第 {} 页：{}
+Rendering page {}…	正在渲染第 {} 页…
+Each BP reaction requires one attB Fragment and one matched Donor Vector.	每次 BP 反应需要一个 attB 片段和一个匹配的供体载体。
+Please specify a suitable Donor Vector with attP1 and attP2 sites.	请指定含 attP1 和 attP2 位点的合适供体载体。
+The Donor Vector att sites are too close to the ends.	供体载体的 att 位点距末端过近。
+Please specify a suitable Destination Vector with attR1 and attR2 sites.	请指定含 attR1 和 attR2 位点的合适目的载体。
+The Destination Vector att sites are too close to the ends.	目的载体的 att 位点距末端过近。
+The Entry Clone must contain attL1 and attL2 sites that face each other.	入门克隆必须含有相向的 attL1 和 attL2 位点。
+The Entry Clone att sites are invalid.	入门克隆的 att 位点无效。
+Please choose linear Vector and Fragment sequences.	请选择线性载体和片段序列。
+The source must contain a valid double-stranded DNA region.	来源必须含有效的双链 DNA 区域。
+Blunt TOPO cloning requires blunt ends in both the Vector and Fragment.	平端 TOPO 克隆要求载体和片段均具有平端。
+Directional TOPO cloning requires a blunt-ended Fragment with a 5' CACC sequence.	定向 TOPO 克隆要求片段为平端且含 5′ CACC 序列。
+Directional TOPO cloning requires the CACC directional junction in the Vector and Fragment.	定向 TOPO 克隆要求载体和片段具有 CACC 定向连接位点。
+Select a TA, GC or TOPO cloning method.	请选择 TA、GC 或 TOPO 克隆方法。
+The source sequence is empty.	源序列为空。
+The selected cuts lie outside the source sequence.	选定切口位于源序列之外。
+The selected cut extends beyond a source strand.	选定切口超出源链范围。
+The selected cuts do not define a double-stranded fragment.	选定切口未形成双链片段。
+The selected cuts leave no double-stranded region.	选定切口之间没有双链区域。
+The ends leave no double-stranded region.	这些末端之间没有双链区域。
+Blunting leaves no double-stranded fragment.	平端化后没有双链片段。
+A ligation fragment must be linearized first.	连接片段必须先线性化。
+The fragment is empty.	片段为空。
+MultiSite LR requires two to four Entry Clones.	MultiSite LR 需要两个至四个入门克隆。
+MultiSite LR currently requires a circular Destination Vector; a linear source cannot be silently circularized.	MultiSite LR 目前要求环状目的载体，不能自动将线性来源环化。
+The outer Entry Clone sites do not match the Destination Vector attR sites and directions.	外侧入门克隆位点与目的载体的 attR 位点及方向不匹配。
+Repeated att-site specificity makes the MultiSite reaction ambiguous.	重复的 att 位点特异性使 MultiSite 反应存在歧义。
+Repeated outer att-site specificity makes the reaction ambiguous.	重复的外侧 att 位点特异性使反应存在歧义。
+Invalid recombinant att boundary.	重组 att 边界无效。
+Numbered BP currently requires a circular Donor Vector; a linear source cannot be silently circularized.	编号 BP 目前要求环状供体载体，不能自动将线性来源环化。
+The attB pair and directions must match the selected Donor Vector's attP pair.	attB 位点对及方向必须匹配所选供体载体的 attP 位点对。
+Select one to four Gateway fragments.	请选择一个至四个 Gateway 片段。
+Please select a valid region to amplify.	请选择有效扩增区域。
+Please specify two PCR primers.	请指定两条 PCR 引物。
+PCR primers must contain only IUPAC DNA bases.	PCR 引物只能包含 IUPAC DNA 碱基。
+Primer 1 does not anneal to the beginning of the selected region.	引物 1 无法与选定区域的起始端退火。
+Primer 2 does not anneal to the end of the selected region.	引物 2 无法与选定区域的末端退火。
+Please choose at least two assembly fragments.	请至少选择两个组装片段。
+An assembly fragment is empty.	一个组装片段为空。
+Please choose a Vector and at least one Fragment.	请选择载体和至少一个片段。
+Select a Type IIS enzyme that creates 5' overhangs.	请选择产生 5′ 突出端的 IIS 型酶。
+Parental enzyme set: {}	母酶集合：{}
+Binary: {}	程序：{}
+Built: {} ({})	构建时间：{}（{}）
+Start – End          {}	起点–终点          {}
+Source: {}	来源：{}
+Primer {}:	引物 {}：
+{} site(s) in this sequence	此序列中有 {} 个位点
+Both	双向
+No direction	无方向
+Protein Alignment	蛋白质比对
+DNA Alignment	DNA 比对
+{} · {} sequences · {} columns	{} · {} 条序列 · {} 列
+Run PCR and then digest with {}	进行 PCR 后使用 {} 酶切
+Digest with {}	使用 {} 酶切
+Confidence:	置信度：
+Entry Clone {} · {} bp	入门克隆 {} · {} 碱基对
+Product: {} bp	产物：{} 碱基对
+Show Sites as Numbers	以数字显示位点
+Show Sites as Lines	以线条显示位点
+SEQUENCE	序列
+Show Structure	显示结构
+No binding site — the primer will not bind this sequence.	没有结合位点——引物不会与此序列结合。
+no template	无模板
+Standard Enzymes for Golden Gate Assembly	Golden Gate 组装的标准酶
+Additional Type IIS enzymes	其他 IIS 型酶
+Golden Gate enzyme sets are not implemented yet.	尚未实现 Golden Gate 酶集合。
+(To Be Inserted)	（待插入）
+Options content	选项内容
+/path/to/file.dna	/路径/到/文件.dna
+/path/to/folder	/路径/到/文件夹
+e.g. EcoRI	例如 EcoRI
+{} sites · {} bp	{} 个位点 · {} 碱基对
+Cut: {} / {}	切点：{} / {}
+Unique cutter	单切点酶
+Multiple sites	多个位点
+Entry Clone {}:	入门克隆 {}：
+Source of Fragment {}:	片段 {} 的来源：
+Custom {}:	自定义{}：
+Standard {}:	标准{}：
+Ligate Fragments	连接片段
+Insert Fragment	插入片段
+Insert Multiple Fragments	插入多个片段
+Assemble Multiple Fragments	组装多个片段
+TOPO® TA Cloning	TOPO® TA 克隆
+Blunt TOPO® Cloning	平端 TOPO® 克隆
+Directional TOPO® Cloning	定向 TOPO® 克隆
+Gateway® BP Cloning	Gateway® BP 克隆
+Gateway® LR Cloning: One Fragment	Gateway® LR 克隆：一个片段
+Gateway® LR Cloning: Two Fragments	Gateway® LR 克隆：两个片段
+Gateway® LR Cloning: Three Fragments	Gateway® LR 克隆：三个片段
+Gateway® LR Cloning: Four Fragments	Gateway® LR 克隆：四个片段
+Gateway® BP+LR Cloning: One Fragment	Gateway® BP+LR 克隆：一个片段
+Gateway® BP+LR Cloning: Two Fragments	Gateway® BP+LR 克隆：两个片段
+Gateway® BP+LR Cloning: Three Fragments	Gateway® BP+LR 克隆：三个片段
+Gateway® BP+LR Cloning: Four Fragments	Gateway® BP+LR 克隆：四个片段
+Use file name: {}	使用文件名：{}
+{} bytes	{} 字节
+Delete {} {}?	删除 {} {}？
+{} {} will be deleted	将删除 {} {}
+{} {} will be inserted	将插入 {} {}
+bases	碱基
+Version {}	版本 {}
+ViennaRNA {} (bundled)	ViennaRNA {}（内置）
+Need ≥ {} bases to bind.	结合至少需要 {} 个碱基。
++{} more	另有 {} 项
+{} bp template	{} 碱基对模板
+{} candidate pairs	{} 对候选引物
+{} SEGMENTS	{} 个片段
++{} Segments	另有 {} 个片段
+Extinction Coefficient (280 nm)	消光系数（280 nm）
+Absorbance (280 nm, 0.1%)	吸光度（280 nm，0.1%）
+fully reduced	完全还原
+fully oxidized	完全氧化
+Charge at pH	电荷，pH
+average	平均值
+monoisotopic	单同位素
+Translate this feature in Sequence view	在序列视图中翻译此特征
+Forward	正向
+Enzyme	酶
+Feature	特征
+Operation	操作
+TA cloning requires 3' A overhang in Fragment.	TA 克隆要求片段具有 3′ A 突出端。
+Please make the ends compatible for TOPO® TA cloning.	请使末端兼容 TOPO® TA 克隆。
+Please make the ends compatible for GC cloning.	请使末端兼容 GC 克隆。
+Add 3' G overhangs to Insert	向插入片段添加 3′ G 突出端
+Add 3' A overhangs to Insert	向插入片段添加 3′ A 突出端
+Please choose a linear sequence.	请选择线性序列。
+GC cloning requires 3' G overhangs in the Fragment.	GC 克隆要求片段具有 3′ G 突出端。
+Selected:	所选：
+{} bp	{} 碱基对
+{} codons	{} 个密码子
+{} features	{} 个特征
+Insertion Point: {}	插入点：{}
+1 codon (joined segments)	1 个密码子（跨片段）
+Selection {}..{} ({} {})	选区 {}..{}（{} {}）
+Cursor:{}	光标：{}
+Position {}	位置 {}
+{} · {} site(s)	{} · {} 个位点
+no sequence view	无序列视图
+RNA — enzymes n/a	RNA——不适用限制酶
+Protein — enzymes n/a	蛋白质——不适用限制酶
+Source of Fragment:	片段来源：
+Source of attB Fragment:	attB 片段来源：
+Use matching numbered attB adapter primers	使用编号匹配的 attB 接头引物
+Use attB1 and attB2 adapter primers	使用 attB1 和 attB2 接头引物
+attB adapter primer design is not implemented yet.	尚未实现 attB 接头引物设计。
+Export Map…	导出图谱…
+Unique 6+ Cutters	唯一 6+ 切点酶
+Nonredundant	非冗余
+6+ Cutters	6+ 切点酶
+All 6-Cutters	所有 6 碱基识别酶
+Common Enzymes	常用酶
+No Enzymes	不显示酶
+Custom	自定义
+Unique Cutters	单切点酶
+Unique & Dual Cutters	单／双切点酶
+Type IIS Enzymes	IIS 型酶
+Nicking Endonucleases	切口内切酶
+Auto	自动
+Automatic	自动
+Reset	重置
+Remove	移除
+Enzyme list	酶列表
+(empty)	（空）
+Feature Translation Options...	特征翻译选项…
+Delete Segment	删除片段
+Merge Segments	合并片段
+Split Feature...	拆分特征…
+Add Both Primers	添加两条引物
+Golden Gate Enzyme:	Golden Gate 酶：
+Unique 6+ Cutters | Nonredundant	唯一 6+ 切点酶 | 非冗余
+Source editing is available in the main sequence window.	可在主序列窗口编辑来源。
+Intermediate-file creation is not implemented yet; the final product can be generated.	尚未实现中间文件创建；可以生成最终产物。
+Saving writes the original bytes back unchanged (no edits are applied).	保存时原样写回原始字节（不应用编辑）。
+Sticky ends from different sites may not be compatible.	不同位点的黏性末端可能不兼容。
+{} enzymes	{} 种酶
+Variant {}	变体 {}
+ (discontinued)	（已停产）
+Create a sequence with multiple {}'s	创建由多个 {} 组成的序列
+Create a sequence	创建序列
+Add Primer for {}	为 {} 添加引物
+Edit Primer for {}	编辑 {} 的引物
+Add Feature for {}	为 {} 添加特征
+Edit Feature in {}	编辑 {} 中的特征
+Open Files	打开文件
+Open File	打开文件
+Open Folder	打开文件夹
+Import Sequence File	导入序列文件
+Use System Dialog…	使用系统对话框…
+Show Selected Enzymes	显示选定酶
+Hide Selected Enzymes	隐藏选定酶
+Remove Selected from Chosen Enzymes	从所选酶集合移除选定项
+Remove Selected Enzyme Site…  (mutagenesis, not implemented)	移除选定酶切位点…（突变操作，尚未实现）
+Hide Enzymes That Cut Outside the Selection	隐藏在选区外切割的酶
+Hide Enzymes That Cut Inside the Selection	隐藏在选区内切割的酶
+Enzyme Database	酶数据库
+Show Selected Features	显示选定特征
+Hide Selected Features	隐藏选定特征
+Import Features…	导入特征…
+Add to Common Features…	添加到常见特征…
+Show Codon Frequencies	显示密码子频率
+Duplicate Primer	复制引物
+Agarose: {}% · Stored lane definitions	琼脂糖：{}% · 已保存的泳道定义
+Top cut: {}    Bottom cut: {}	上链切点：{}    下链切点：{}
+Overhang type: {}	突出端类型：{}
+Recommended buffer: {}	推荐缓冲液：{}
+Buffer activities: {}	缓冲液活性：{}
+Incubation temperature: {} °C	孵育温度：{} °C
+{} context rules	{} 上下文规则
+Context-dependent (rules available)	依赖序列上下文（可查看规则）
+No effect recorded	未记录影响
+uncut	未切割
+Single-strand nick	单链切口
+Blunt	平端
+5′ overhang	5′ 突出端
+3′ overhang	3′ 突出端
+Custom Linearized Vector:	自定义线性化载体：
+Commercial Linearized Vector:	商业线性化载体：
+Creates Blunt Ends	产生平端
+Creates 3' A or G Overhangs	产生 3′ A 或 G 突出端
+Unspecified	未指定
+Container	文件容器
+Field	字段
+Value	值
+Notes	备注
+NOTE	备注
+To choose the source file for the Fragment, either:	选择片段源文件的方法：
+To choose the Linearized Vector, either:	选择线性化载体的方法：
+• Use the menu at the right.	• 使用右侧菜单。
+• Drag the source file into this box.	• 将源文件拖入此框。
+• Click here.	• 点击此处。
+Map / Sequence	图谱／序列
+Allowing a single isolated mismatch	允许单个孤立错配
+Require a melting temperature (Tm) of at least	要求熔解温度（Tm）至少为
+type/paste bases (whitespace ignored)	输入或粘贴碱基（忽略空白字符）
+Insert at cursor / replace selection	在光标处插入／替换选区
+Open failed: 	打开失败：
+Import failed: 	导入失败：
+Save failed: 	保存失败：
+Export failed: 	导出失败：
+Edit failed: 	编辑失败：
+Clone failed: 	克隆失败：
+Feature edit failed: 	特征编辑失败：
+Primer edit failed: 	引物编辑失败：
+Info edit failed: 	信息编辑失败：
+Cannot save preferences: 	无法保存偏好设置：
+Undo: 	撤销：
+Redo: 	重做：
+Renamed to 	已重命名为：
+Imported 	已导入：
+Exported 	已导出：
+Selected: 	所选：
+Selection cleared	已清除选区
+No file open	未打开文件
+No document open	未打开文档
+New file cancelled	已取消新建文件
+This document type cannot be edited	无法编辑此文档类型
+Cannot add a feature to an empty sequence	无法向空序列添加特征
+No feature selected — pick one in the Features tab	未选择特征——请在特征页签中选择
+No primer selected — pick one in the Primers tab	未选择引物——请在引物页签中选择
+No change	没有修改
+Feature dialog cancelled	已取消特征对话框
+Primers can only be added to DNA sequences	只能向 DNA 序列添加引物
+Primer design needs a DNA sequence	引物设计需要 DNA 序列
+View reset	已重置视图
+Already at the start of the sequence	已位于序列起点
+Place the cursor in the sequence first	请先在序列中放置光标
+Nothing selected — click or drag in the sequence first	未选择内容——请先在序列中点击或拖动
+Nothing selected — drag in the sequence first	未选择内容——请先在序列中拖动
+Select a contiguous range to cut	请选择连续区域以剪切
+Reverse-complement paste requires DNA or RNA	粘贴反向互补序列需要 DNA 或 RNA
+Click in the sequence to place the cursor	点击序列以放置光标
+Nothing to insert — paste a sequence into the text field	没有可插入的内容——请将序列粘贴到文本框
+Nothing selected	未选择内容
+Feature has no segments	特征没有片段
+Save cancelled	已取消保存
+Type a path to save to (Save As)	请输入保存路径（另存为）
+Export SVG: open or save a file first	导出 SVG：请先打开或保存文件
+Folding secondary structure…	正在折叠二级结构…
+No secondary structure in this file	此文件中没有二级结构
+Export: open or save a file first	导出：请先打开或保存文件
+Nothing to export	没有可导出的内容
+No secondary structure to export	没有可导出的二级结构
+No secondary structure to copy	没有可复制的二级结构
+No system file dialog available — type a path instead	系统文件对话框不可用——请改为输入路径
+Showing all enzymes	已显示所有酶
+Hiding all enzymes	已隐藏所有酶
+Showing all primers	已显示所有引物
+Hiding all primers	已隐藏所有引物
+Cloning cancelled	已取消克隆
+Hybridization parameters updated	已更新杂交参数
+No file open — nothing to annotate	未打开文件——没有可注释的内容
+Export enzyme set: save the file first	导出酶集合：请先保存文件
+Export feature data: save the file first	导出特征数据：请先保存文件
+ACGT…  (5′ tail may not anneal)	ACGT…（5′ 尾部可能不退火）
+Lane {}:	泳道 {}：
+bp	碱基对
+nt	核苷酸
+Empty	空
+  (supercoiled)	  （超螺旋）
+Selected: {}	所选：{}
+Choose a DNA sequence file	请选择 DNA 序列文件
+Clear populated trailing lanes before reducing the lane count.	减少泳道数之前，请先清空末尾有内容的泳道。
+New DNA File	新建 DNA 文件
+New RNA File	新建 RNA 文件
+New Protein File	新建蛋白质文件
+Enter a sequence	输入序列
+Create a placeholder file with no sequence	创建不含序列的占位文件
+Reverse complement sequence	对序列取反向互补
+Detect common features	检测常见特征
+Transfer features, translation numbering, and amino acid colors	转移特征、翻译编号和氨基酸颜色
+Recognition Sequence	识别序列
+Recognition	识别序列
+Cut Site	切割位点
+Cut Sites	切割位点
+Cutting Sites	切割位点
+Sites	位点
+Overhang	突出端
+Overhang Type	突出端类型
+Supplier(s)	供应商
+Suppliers	供应商
+Size	大小
+Location	位置
+Sequence (5′→3′)	序列（5′→3′）
+Sequence (5′ → 3′)	序列（5′ → 3′）
+Sequence (5' to 3')	序列（5′ 至 3′）
+GC (%)	GC（%）
+GC%	GC 含量
+Tm (°C)	熔解温度（°C）
+Binding Sites	结合位点
+Binding Site	结合位点
+5′ Tail	5′ 尾部
+Type	类型
+Visibility	可见性
+Visible	可见
+Created	创建时间
+Modified	修改时间
+Synthetic	人工合成
+Natural	天然
+Laboratory Host	实验室宿主
+Accession Number	登录号
+Code Number	编号
+Author	作者
+Name	名称
+Length	长度
+Position	位置
+Direction	方向
+Start	起点
+End	终点
+Color	颜色
+Source	来源
+Method	方法
+Number	数量
+Percent	百分比
+Whole Protein	完整蛋白质
+Selection	选区
+Molecular Weight	分子量
+Isoelectric Point (pI)	等电点（pI）
+Amino Acid	氨基酸
+Molecular Weight (Da)	分子量（Da）
+Rename File	重命名文件
+Open Files…    Ctrl+O	打开文件…    Ctrl+O
+Close Tab    Ctrl+W	关闭标签页    Ctrl+W
+Save    Ctrl+S	保存    Ctrl+S
+Save As…    Ctrl+Shift+S	另存为…    Ctrl+Shift+S
+Export View as SVG    Ctrl+E	导出视图为 SVG    Ctrl+E
+Rename…    F2	重命名…    F2
+Choose Enzymes…                 Ctrl+E	选择酶…                 Ctrl+E
+Default export format for {} files:	{} 文件的默认导出格式：
+Plain Text	纯文本
+Line breaks in exported files:	导出文件的换行格式：
+Windows Format (CRLF)	Windows 格式（CRLF）
+macOS / Linux Format (LF)	macOS / Linux 格式（LF）
+GenBank Customization:	GenBank 自定义：
+Limit LOCUS name length:	限制 LOCUS 名称长度：
+characters	个字符
+Export feature names to /label qualifiers	将特征名称导出至 /label 限定符
+Vector	载体
+Fragment	片段
+Product	产物
+Linearized Vector	线性化载体
+Entry Clone	入门克隆
+Donor Vector	供体载体
+Destination Vector	目的载体
+Restriction Cloning	限制性酶切克隆
+Linear Ligation	线性连接
+TA Cloning	TA 克隆
+GC Cloning	GC 克隆
+TOPO TA Cloning	TOPO TA 克隆
+Blunt TOPO Cloning	平端 TOPO 克隆
+Directional TOPO Cloning	定向 TOPO 克隆
+Gibson Assembly	Gibson 组装
+In-Fusion Cloning	In-Fusion 克隆
+NEBuilder HiFi DNA Assembly	NEBuilder HiFi DNA 组装
+This action is not applicable to the active molecule.	此操作不适用于当前分子。
+This action currently requires a source without sticky ends. Prepare a blunt source first.	此操作目前要求源分子没有黏性末端。请先制备平端来源。
+Please enter a product name.	请输入产物名称。
+First base must be within 1 .. sequence length.	首个碱基必须位于 1 至序列长度之间。
+Invalid region; wrapping regions require a circular source.	区域无效；跨原点区域要求环状来源。
+Reading frame must be 1, 2 or 3.	阅读框必须为 1、2 或 3。
+Region is shorter than the reading frame	区域长度小于阅读框偏移
+No amino acids in the selected region/frame before the first stop.	选定区域／阅读框在首个终止密码子前没有氨基酸。
+Sequence contains symbols not valid for this molecule.	序列含有不适用于此分子的字符。
+Primer Analysis	引物分析
+Top Strand	上链
+Bottom Strand	下链
+No Color	无颜色
+Insert	插入
+Insert the following sequence:	插入以下序列：
+Reverse complement	反向互补
+Enter Sequence Text	输入序列文本
+ORFs Only	仅开放阅读框
+Hybridization Parameters	杂交参数
+Translation Options	翻译选项
+Match at least	至少匹配
+bases at the 3′ end of the primer	个引物 3′ 端碱基
+Recalculates ungapped binding sites. Tm uses the existing nearest-neighbour screening estimate; mismatch/bulge thermodynamics are not modeled.	重新计算无缺口结合位点。Tm 使用现有的最近邻筛选估计；未对错配与凸环热力学建模。
+Zoom to fit	缩放至适合窗口
+Please choose a source file.	请选择源文件。
+< Please choose >	< 请选择 >
+Fragment:	片段：
+Digest with other enzymes	使用其他酶切割
+Fragment Size (bp)	片段大小（碱基对）
+To choose PCR primers automatically:	自动选择 PCR 引物：
+1. In the Vector tab, select the site of insertion or the region to be replaced.	1. 在载体页签选择插入位点或要替换的区域。
+2. In the Fragment tab, select the region to be amplified and choose the orientation.	2. 在片段页签选择要扩增的区域及方向。
+3. In the Product tab, press ‘Choose PCR Primers…’.	3. 在产物页签点击“选择 PCR 引物…”。
+Choose restriction enzymes to see digest fragments.	选择限制酶以查看酶切片段。
+Close this cloning window	关闭此克隆窗口
+Golden Gate Enzymes	Golden Gate 酶
+Choose PCR Primers…	选择 PCR 引物…
+Adjust Overhangs…	调整突出端…
+Adjust Overhangs	调整突出端
+Golden Gate uses Type IIS digestion and compatible cohesive ends.	Golden Gate 使用 IIS 型酶切和兼容的黏性末端。
+Edit the source sequence in the main sequence window.	请在主序列窗口编辑源序列。
+Create product:	创建产物：
+and close this window	并关闭此窗口
+Assemble	组装
+Bacterial Transformation Strain	细菌转化菌株
+Make file:	生成文件：
+Enter the complete primer sequence below.	请在下方输入完整引物序列。
+5′ Phosphorylated	5′ 磷酸化
+Reverse Complement	反向互补
+Junction sequences are written in the top-strand direction.	连接位点序列按上链方向书写。
+Same recognition sequence:	相同识别序列：
+Same recognition and cutting sites:	相同识别序列和切割位点：
+Methylation sensitivity	甲基化敏感性
+Sticky ends from different recognition sites may not be compatible.	来自不同识别位点的黏性末端可能不兼容。
+Feature Name:	特征名称：
+Type:	类型：
+Default Golden Gate enzyme:	默认 Golden Gate 酶：
+Confirmed experimentally	已经实验确认
+Description	描述
+Rich-text description retained; editing is not yet supported.	已保留富文本描述，目前尚不支持编辑。
+Use a custom map label	使用自定义图谱标签
+Embedded Files	嵌入文件
+Stored alignment · read-only · saving preserves the original file	已保存的比对 · 只读 · 保存时保留原始文件
+Agarose Gel	琼脂糖凝胶
+Sequence-derived band sizes; migration rendering is approximate, not a validated electrophoresis prediction. Read-only.	条带大小由序列计算；迁移位置为近似绘制，并非经验证的电泳预测。只读。
+Number of residues:	残基数量：
+Circular	环状
+Linear	线性
+Double-stranded	双链
+Single-stranded	单链
+File size	文件大小
+Blocks	数据块
+type · payload bytes	类型 · 载荷字节数
+Sort ascending	升序排列
+Sort descending	降序排列
+Hide column	隐藏列
+Columns	列
+Find enzyme	查找酶
+Add enzyme	添加酶
+Type a name and press Add	输入名称后点击添加
+Add	添加
+Clear all	全部清除
+Export Enzyme Set…	导出酶集合…
+Show All Enzymes	显示所有酶
+Hide All Enzymes	隐藏所有酶
+No enzymes selected.	未选择酶。
+does not cut this sequence	不切割此序列
+Find features	查找特征
+Show All Features	显示所有特征
+Hide All Features	隐藏所有特征
+Export Feature Data…	导出特征数据…
+Select Feature Range	选择特征范围
+Center on Feature	以特征为中心
+Find primers	查找引物
+Actions ▾	操作 ▾
+No primers in this file.	此文件中没有引物。
+No primers in this sequence.	此序列中没有引物。
+No recorded history.	没有已记录的历史。
+Unsaved changes	未保存的修改
+No recorded molecular history in this file.	此文件中没有已记录的分子历史。
+Historical-state restoration is not yet supported.	尚不支持恢复历史状态。
+File contents and extension are preserved. An existing file will not be overwritten.	保留文件内容和扩展名，不会覆盖已有文件。
+Primer	引物
+Primer name	引物名称
+Optional description	可选描述
+Codon	密码子
+Reverse	反向
+Enzyme site	酶切位点
+Add 6 upstream bases	添加 6 个上游碱基
+Short feature sequence	短特征序列
+No binding site in this sequence.	此序列中没有结合位点。
+Design Primers	设计引物
+Target region (1-based):	目标区域（从 1 开始）：
+Product:	产物：
+Primer length:	引物长度：
+Tm:	熔解温度：
+GC content:	GC 含量：
+Find Primers	查找引物
+No primer pair satisfies these constraints.	没有引物对满足这些条件。
+Candidates	候选引物
+Open with system PDF viewer	使用系统 PDF 阅读器打开
+Display options	显示选项
+Methylation:	甲基化：
+Change…	更改…
+Methylation editing is not implemented	尚未实现甲基化编辑
+Native Code Number field mapping has not been verified	尚未验证原生编号字段的映射
+Sequence Author	序列作者
+References	参考文献
+Reference editing is not implemented.	尚未实现参考文献编辑。
+Drag & drop or Browse to embed files	拖放或浏览以嵌入文件
+Embedded-file editing is not implemented	尚未实现嵌入文件编辑
+File Name	文件名
+Paste a region or feature copied from an open sequence to enable transfer	粘贴从已打开序列复制的区域或特征以启用转移
+Common feature detection needs SnapGene's .ftrs engine (not implemented)	常见特征检测需要 SnapGene 的 .ftrs 引擎（尚未实现）
+Vector:	载体：
+Golden Gate enzyme:	Golden Gate 酶：
+Linearize by PCR	通过 PCR 线性化
+Linearize with restriction enzymes	使用限制酶线性化
+Use directly as the linearized Vector	直接用作线性化载体
+Polymerase for making linearized Vector:	制备线性化载体的聚合酶：
+Use as a template for PCR	用作 PCR 模板
+Use directly as the attB Fragment	直接用作 attB 片段
+Polymerase for making Fragment:	制备片段的聚合酶：
+Polymerase for making attB Fragment:	制备 attB 片段的聚合酶：
+Entry Clone:	入门克隆：
+Fragments:	片段：
+Use directly as the Fragment	直接用作片段
+No standard vectors found.	未找到标准载体。
+Enzyme filter:	酶筛选：
+with	使用
+and then blunt	然后平端化
+Site of insertion:	插入位点：
+Top / bottom strand cut coordinates	上链／下链切割坐标
+No double-stranded fragment between these cuts.	这些切口之间没有双链片段。
+Region:	区域：
+Orientation:	方向：
+This intermediate is generated by the matching attB Fragment and Donor Vector BP reaction.	此中间产物由匹配的 attB 片段与供体载体的 BP 反应生成。
+No product yet — choose both sources.	尚无产物——请选择两个来源。
+Make a primer from the selection?	从选区生成引物？
+Qualifiers	限定符
+Add qualifier	添加限定符
+Remove qualifier	移除限定符
+Splitting a feature needs a chosen split point (not implemented yet)	拆分特征需要选定拆分点（尚未实现）
+Translation options (genetic code, frame) are not implemented yet	尚未实现翻译选项（遗传密码、阅读框）
+Include in the list of Golden Gate enzymes:	包含在 Golden Gate 酶列表中：
+This preference page requires a dedicated data model.	此偏好设置页需要专门的数据模型。
+Collection management, gel simulation and trace rendering are not implemented by this preferences window. Existing native files are preserved without modification.	此偏好设置窗口尚未实现集合管理、凝胶模拟设置和峰图渲染设置。现有原生文件保持不变。
+These hybridization parameters are for newly entered or imported sequences.	这些杂交参数适用于新输入或导入的序列。
+For small sequences:	对于较短序列：
+For sequences larger than	对于长度超过
+bp:	碱基对的序列：
+For small and large sequences:	对于所有长度的序列：
+Show additional binding sites that do not match at the 3′ end of the primer	显示与引物 3′ 端不匹配的额外结合位点
+but match at least	但在 5′ 端至少匹配
+bases at the 5′ end	个碱基
+Primer-template duplex display	引物与模板双链显示
+Ungapped duplex search is implemented. Bulges, complex loops and minimum-free-energy structure selection are not yet modeled.	已实现无缺口双链搜索。尚未对凸环、复杂环和最低自由能结构选择建模。
+These settings are for newly entered or imported {} sequences.	这些设置适用于新输入或导入的 {} 序列。
+Show "Region" features	显示“区域”特征
+Show "Site" and "Het" features	显示“位点”和“异源区”特征
+Show "Bond" features	显示“键”特征
+Show features	显示特征
+Show primers	显示引物
+Show translations and ORFs	显示翻译与开放阅读框
+ORFs: Minimum Length:	开放阅读框最小长度：
+amino acids	氨基酸
+protein	蛋白质
+Require a start codon:	要求起始密码子：
+except at {} ends	{} 末端除外
+Map View:	图谱视图：
+Sequence View:	序列视图：
+Structure View:	结构视图：
+Show base index labels on structure	在结构上显示碱基编号
+Internal Labels Only	仅显示内部标签
+Internal and External Labels	显示内部和外部标签
+Show minimap	显示概览图
+Use fixed line width	使用固定行宽
+amino acids per line	个氨基酸／行
+bases per line	个碱基／行
+Show restriction enzyme names in italics	以斜体显示限制酶名称
+Show unique cutters in bold	以粗体显示单切点酶
+Show blunt cutters in green	以绿色显示平端酶
+Default tab for Enzymes view:	酶视图的默认显示方式：
+Numbers	数字
+Lines	线条
+Enzyme suppliers in order of preference:	按优先顺序排列酶供应商：
+Move Up	上移
+Move to Top	移至顶部
+Move Down	下移
+List the top	在程序菜单中列出前
+suppliers in the program menus	家供应商
+Use	使用
+Nonredundant Commercial	非冗余商业酶
+Supplier	供应商
+as the parental enzyme set for Unique Cutters, Unique & Dual Cutters, 6+ Cutters, Unique 6+ Cutters, Type IIS Enzymes, and Nicking Endonucleases	作为单切点酶、单／双切点酶、6+ 切点酶、唯一 6+ 切点酶、IIS 型酶和切口酶的母集合
+Linearize	线性化
+Convert to Single-Stranded	转为单链
+Anneal Oligos	寡核苷酸退火
+Make RNA	生成 RNA
+Make Protein	生成蛋白质
+Open the circle immediately before this base (blunt cut):	在此碱基之前打开环状分子（平端切割）：
+Use bottom strand (reverse complement, 5′ → 3′)	使用下链（反向互补，5′ → 3′）
+Creates a new single-stranded molecule; the source is unchanged.	创建新的单链分子，源分子保持不变。
+Oligo 1 (5′ → 3′)	寡核苷酸 1（5′ → 3′）
+Oligo 2 (5′ → 3′)	寡核苷酸 2（5′ → 3′）
+Offset of reverse-complemented Oligo 2 relative to Oligo 1:	寡核苷酸 2 反向互补后相对于寡核苷酸 1 的偏移：
+0 aligns left edges. Positive shifts it right. Only exact A/C/G/T duplexes are accepted; no mismatch or melting-temperature prediction.	0 表示左端对齐，正值向右移动。仅接受完全匹配的 A/C/G/T 双链；不预测错配或熔解温度。
+Region (1-based, inclusive):	区域（从 1 开始，包含两端）：
+Reverse-complement source region	对源区域取反向互补
+Reading frame:	阅读框：
+Stop at first stop codon	遇到首个终止密码子时停止
+Standard genetic code only. Incomplete terminal codons are ignored. Nucleotide features are not copied into protein coordinates.	仅使用标准遗传密码。忽略末端不完整密码子，不将核苷酸特征复制到蛋白质坐标。
+The chosen strand is treated as the coding strand (T → U). No promoter recognition or splicing is predicted.	将选定链视为编码链（T → U），不预测启动子识别或剪接。
+Product name:	产物名称：
+Open Files…	打开文件…
+Refresh Folder	刷新文件夹
+Show Folder in File Manager	在文件管理器中显示文件夹
+Close Folder	关闭文件夹
+Close Tab	关闭标签页
+Close All Tabs	关闭所有标签页
+Close All Windows	关闭所有窗口
+Clear Menu	清空列表
+Open File with System Dialog…	使用系统对话框打开文件…
+New DNA or RNA File…	新建 DNA 或 RNA 文件…
+New Protein File…	新建蛋白质文件…
+New File from Selection…	从选区新建文件…
+Map…	图谱…
+Sequence…	序列…
+History…	历史…
+DNA…	DNA…
+Properties…	属性…
+Sequence File (FASTA / GenBank)…	序列文件（FASTA / GenBank）…
+FASTA File…	FASTA 文件…
+GenBank File…	GenBank 文件…
+From Addgene Plasmids…	从 Addgene 质粒导入…
+From NCBI Sequences…	从 NCBI 序列导入…
+From UniProt Sequences…	从 UniProt 序列导入…
+Vector NTI Database…	Vector NTI 数据库…
+Clone Manager Primer Collection…	Clone Manager 引物集合…
+Import Primers…	导入引物…
+Batch Convert File Format…	批量转换文件格式…
+Trim File History…	精简文件历史…
+Page Setup…	页面设置…
+Print…	打印…
+Delete	删除
+Enter Sequence Text…	输入序列文本…
+Paste Reverse Complement	粘贴反向互补序列
+Find DNA Sequence	查找 DNA 序列
+Find Enzyme	查找酶
+Find Feature	查找特征
+Find Primer Data	查找引物数据
+Go To…	跳转到…
+Select Range…	选择范围…
+Invert Selection	反选
+Use 3-Letter Amino Acid Codes	使用三字母氨基酸代码
+Use 1-Letter Amino Acid Codes	使用单字母氨基酸代码
+Make Uppercase	转为大写
+Make Lowercase	转为小写
+Edit DNA Ends…	编辑 DNA 末端…
+Topology	拓扑结构
+Topology (linear to circular)…	拓扑结构（线性转环状）…
+Topology (circular to linear)…	拓扑结构（环状转线性）…
+Strandedness	链型
+Strandedness (ds to ss)…	链型（双链转单链）…
+Strandedness (ss to ds)…	链型（单链转双链）…
+Methylation…	甲基化…
+View Options…	视图选项…
+View Options...	视图选项…
+Hide "Start" and "End"	隐藏“起点”和“终点”
+Set Origin…	设置原点…
+Set Translation Numbering…	设置翻译编号…
+Font Size	字体大小
+Increase	增大
+Decrease	减小
+Horizontal Scrolling	水平滚动
+Side Panel	侧栏
+Side Toolbar	侧工具栏
+Top Toolbar	顶部工具栏
+Translations and ORFs	翻译与开放阅读框
+Colors	颜色
+Ruler	标尺
+Fit to Window	适合窗口
+Flip / Reverse Complement	翻转／反向互补
+Focus on Region	聚焦区域
+Choose Enzymes…	选择酶…
+Show or Hide Enzymes	显示或隐藏酶
+Highlight Selected Enzyme Sites	高亮选定酶切位点
+Clear Highlighting for All Enzyme Sites	清除所有酶切位点高亮
+Use Enzyme Set	使用酶集合
+Remove Selected Enzyme Site…	移除选定酶切位点…
+Manage Enzyme Sets…	管理酶集合…
+Enzyme Database…	酶数据库…
+Restriction Enzymes	限制性内切酶
+Noncutters	无切点酶
+Enzymes Preferences	酶偏好设置
+Enzymes Preferences…	酶偏好设置…
+Add Feature…	添加特征…
+Add Translated Feature…	添加翻译特征…
+Edit Feature…	编辑特征…
+Duplicate Feature…	复制特征…
+Remove Feature	移除特征
+Create Feature Segment…	创建特征片段…
+Delete Feature Segment	删除特征片段
+Merge Feature Segments…	合并特征片段…
+Add Cleavage Site…	添加切割位点…
+Remove Cleavage Site	移除切割位点
+Feature Color…	特征颜色…
+Feature Color	特征颜色
+Color for the selected feature	选定特征的颜色
+Show or Hide Feature	显示或隐藏特征
+Show or Hide Feature Types…	显示或隐藏特征类型…
+Import Features	导入特征
+Import Features from a SnapGene File…	从 SnapGene 文件导入特征…
+Import Features from a BED File…	从 BED 文件导入特征…
+Import Features from a GTF File…	从 GTF 文件导入特征…
+Import Features from a GFF3 File…	从 GFF3 文件导入特征…
+Detect Common Features…	检测常见特征…
+Add to Common Features	添加到常见特征
+Browse Common Features	浏览常见特征
+Add Feature Type…	添加特征类型…
+Manage Feature Types…	管理特征类型…
+Add Primer…	添加引物…
+Edit Primer…	编辑引物…
+Duplicate Primer…	复制引物…
+Remove Primer	移除引物
+Primer Color…	引物颜色…
+Hybridization Parameters…	杂交参数…
+Show All Primers	显示所有引物
+Hide All Primers	隐藏所有引物
+Show or Hide Primers	显示或隐藏引物
+Import Primers	导入引物
+Import Primers from a List…	从列表导入引物…
+Import Primers from a SnapGene File…	从 SnapGene 文件导入引物…
+Export Primer Data…	导出引物数据…
+Export Primers to ssDNA…	将引物导出为单链 DNA…
+Analyze Selected Primers…	分析选定引物…
+Restriction and Insertion Cloning	限制性酶切与插入克隆
+Insert Fragment…	插入片段…
+Insert Multiple Fragments…	插入多个片段…
+Delete Restriction Fragment…	删除酶切片段…
+Destroy Restriction Site…	破坏酶切位点…
+Linear Ligation…	线性连接…
+PCR…	PCR…
+Overlap Extension PCR…	重叠延伸 PCR…
+Mutagenesis…	定点突变…
+Gateway® Cloning	Gateway® 克隆
+BP Cloning…	BP 克隆…
+Donor Vectors	供体载体
+Destination Vectors	目的载体
+Gateway Donor Vectors	Gateway 供体载体
+Gateway Destination Vectors	Gateway 目的载体
+Gibson Assembly®	Gibson Assembly® 组装
+Assemble Multiple Fragments…	组装多个片段…
+Golden Gate Assembly	Golden Gate 组装
+Golden Gate Settings…	Golden Gate 设置…
+Golden Gate Settings	Golden Gate 设置
+In-Fusion® Cloning	In-Fusion® 克隆
+NEBuilder® HiFi DNA Assembly	NEBuilder® HiFi DNA 组装
+TA or GC Cloning	TA 或 GC 克隆
+TA Cloning…	TA 克隆…
+GC Cloning…	GC 克隆…
+TA Vectors	TA 载体
+GC Vectors	GC 载体
+TA Cloning Vectors	TA 克隆载体
+GC Cloning Vectors	GC 克隆载体
+TOPO® Cloning	TOPO® 克隆
+TOPO® TA Cloning…	TOPO® TA 克隆…
+Blunt TOPO® Cloning…	平端 TOPO® 克隆…
+Directional TOPO® Cloning…	定向 TOPO® 克隆…
+TOPO® TA Vectors	TOPO® TA 载体
+Blunt TOPO® Vectors	平端 TOPO® 载体
+Directional TOPO® Vectors	定向 TOPO® 载体
+TOPO TA Vectors	TOPO TA 载体
+TOPO Blunt Vectors	TOPO 平端载体
+TOPO Directional Vectors	TOPO 定向载体
+Assemble Contigs…	组装重叠群…
+Align Open Sequences…	比对打开的序列…
+Show Codon Usage Tables	显示密码子使用频率表
+Genetic Codes	遗传密码
+Letter Codes	字母代码
+Show DNA Calculations	显示 DNA 计算
+Recompute Enzyme Sites	重新计算酶切位点
+Block Summary (status bar)	数据块摘要（状态栏）
+Minimize	最小化
+Zoom	缩放
+Enter Full Screen	进入全屏
+Show Next Tab	下一个标签页
+Show Previous Tab	上一个标签页
+Move Tab to New Window	将标签页移至新窗口
+Move All Tabs to New Windows	将所有标签页移至新窗口
+Merge All Windows	合并所有窗口
+Read-only	只读
+Reset View	重置视图
+User Guide	用户指南
+Keyboard Shortcuts	键盘快捷键
+Symbols and Abbreviations	符号与缩写
+Search Tips	搜索提示
+Check for Updates…	检查更新…
+Report a Bug…	报告问题…
+Online Resources	在线资源
+About AppimageGene	关于 AppimageGene
+Save As	另存为
+Open	打开
+OK	确定
+Create	创建
+Replace	替换
+Rename	重命名
+Rename…	重命名…
+Show in File Manager	在文件管理器中显示
+Copy Path	复制路径
+Hide Files panel	隐藏文件侧栏
+Show Files panel	显示文件侧栏
+Refresh folder	刷新文件夹
+Tip: you can also drop a file onto the window.	提示：也可以将文件拖放到窗口中。
+Include the .dna / .rna / .prot extension.	请包含 .dna / .rna / .prot 扩展名。
+No local vector templates found.	未找到本地载体模板。
+Open a suitable .dna file, or configure HELIX_SNAP_SGENE_RESOURCES.	请打开合适的 .dna 文件，或配置 HELIX_SNAP_SGENE_RESOURCES。
+Open an independent template copy; the library file is not overwritten.	打开独立的模板副本，不会覆盖库文件。
+Open Vector File…	打开载体文件…
+All open documents	所有打开的文档
+Not implemented yet	尚未实现
+File information (metadata, blocks, features)	文件信息（元数据、数据块、特征）
+Close tab (Ctrl+W)	关闭标签页（Ctrl+W）
+New sequence or open files/folder	新建序列或打开文件／文件夹
+Save (Ctrl+S)	保存（Ctrl+S）
+Undo (Ctrl+Z)	撤销（Ctrl+Z）
+Redo (Ctrl+Shift+Z)	重做（Ctrl+Shift+Z）
+Cut selection (Ctrl+X)	剪切选区（Ctrl+X）
+Copy top strand bases (Ctrl+C)	复制上链碱基（Ctrl+C）
+Paste clipboard at cursor (Ctrl+V)	在光标处粘贴剪贴板内容（Ctrl+V）
+Copy Top Strand Bases	复制上链碱基
+Copy Bottom Strand Bases	复制下链碱基
+Copy Amino Acids	复制氨基酸
+Copy 1-Letter Amino Acids	复制单字母氨基酸
+Copy 3-Letter Amino Acids	复制三字母氨基酸
+Copy Map	复制图谱
+Copy Reverse Complement	复制反向互补序列
+Select Recognition Sequence	选择识别序列
+View Options	视图选项
+Choose Features…	选择特征…
+Translation Options…	翻译选项…
+Show annotation colors	显示注释颜色
+Neutral sequence colors	中性序列颜色
+Sequence schemes apply in Sequence view. GC mode colors G/C versus A/T; it is not a sliding-window plot.	序列配色应用于序列视图。GC 模式区分 G/C 与 A/T，并非滑动窗口曲线。
+Save Enzyme Set…	保存酶集合…
+All Commercial	所有商业酶
+Hybridization parameters control how many binding sites are displayed.	杂交参数控制显示的结合位点数量。
+Allow a single isolated mismatch	允许单个孤立错配
+Minimum melting temperature (°C):	最低熔解温度（°C）：
+Show additional binding sites matching the 5′ end	显示与 5′ 端匹配的额外结合位点
+Minimum 5′ match length:	最小 5′ 匹配长度：
+Minimum ORF length (bases):	开放阅读框最小长度（碱基）：
+Use 1-letter amino acid codes	使用单字母氨基酸代码
+Frame filters currently apply to ORFs, not continuous six-frame translation.	阅读框筛选目前仅应用于开放阅读框，不应用于连续六框翻译。
+Wrap to window	按窗口宽度换行
+Zoom in	放大
+Zoom out	缩小
+Export current view… (SVG)	导出当前视图…（SVG）
+Find Sequence — not implemented yet	查找序列——尚未实现
+Image…	图像…
+Dot-Bracket…	点括号表示…
+Increase base size	增大碱基字号
+Decrease base size	减小碱基字号
+Reset base size	重置碱基字号
+Reset current display	重置当前显示
+Reset all display	重置所有显示
+Copy structure as dot-bracket	以点括号表示复制结构
+Region	区域
+Site	位点
+Het	异源区
+Bond	键
+Translation numbering	翻译编号
+Enzyme sites	酶切位点
+Features and feature labels	特征及特征标签
+Map layout	图谱布局
+Complement strand (Sequence)	互补链（序列）
+1-letter amino acids	单字母氨基酸
+Feature list	特征列表
+Metadata editing is unavailable for this native-only document.	此原生文档不支持元数据编辑。
+RNA folding & layout · no Python required	RNA 折叠与布局 · 无需 Python
+Formats: .dna (round-trip verified)	格式：.dna（已验证往返读写）
+A Rust re-implementation of the SnapGene plasmid viewer/editor.	使用 Rust 重新实现的 SnapGene 兼容质粒查看与编辑器。
